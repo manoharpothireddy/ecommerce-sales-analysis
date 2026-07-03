@@ -1,0 +1,9 @@
+# Processed data goes here
+# Cleaned, transformed, and feature-engineered datasets
+
+# Example files expected:
+#   customers_clean.csv         — deduplicated, null-filled customer data
+#   orders_enriched.csv         — orders joined with customer + product info
+#   rfm_scores.csv              — RFM segmentation output
+#   cohort_matrix.csv           — cohort retention matrix
+#   customer_segments.csv       — KMeans cluster labels

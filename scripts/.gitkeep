@@ -1,0 +1,11 @@
+# Scripts directory
+# Standalone Python scripts for pipeline steps
+
+# Recommended scripts:
+#   data_generator.py           — synthetic data generation using Faker
+#   data_cleaning.py            — cleaning and validation routines
+#   eda.py                      — automated EDA and summary statistics
+#   segmentation.py             — RFM + KMeans customer segmentation
+#   cohort_analysis.py          — cohort retention analysis
+#   revenue_analysis.py         — revenue trends and forecasting
+#   report_generator.py         — automated PDF/HTML report generation

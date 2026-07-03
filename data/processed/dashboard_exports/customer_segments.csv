@@ -1,0 +1,1001 @@
+customer_id,name,city,state,customer_segment,rfm_segment,recency_days,frequency,monetary,tenure_days
+C0620,Shanaya Sood,Pune,Maharashtra,Premium,Champions,7.0,12.0,226615.0,587
+C0242,Zoya Jaggi,Nizamabad,Telangana,Regular,Loyal Customers,98.0,7.0,224419.5,626
+C0251,Nitara Seth,Bengaluru,Karnataka,New,Champions,30.0,9.0,220973.0,1008
+C0974,Tarini Choudhary,Janakpuri,Delhi,Regular,Loyal Customers,293.0,6.0,193969.0,378
+C0348,Kabir Varkey,Pune,Maharashtra,Regular,Loyal Customers,163.0,8.0,191801.5,473
+C0330,Ira Gaba,Kota,Rajasthan,Regular,Loyal Customers,84.0,6.0,190743.5,1051
+C0430,Krish Chander,Nagpur,Maharashtra,Regular,Loyal Customers,232.0,4.0,190378.0,793
+C0326,Arhaan Chaudhuri,Ujjain,Madhya Pradesh,Regular,Champions,33.0,7.0,184646.0,1079
+C0128,Anvi Ghosh,Ahmedabad,Gujarat,Premium,Loyal Customers,102.0,8.0,179144.0,652
+C0837,Akarsh Iyer,Nashik,Maharashtra,New,Champions,9.0,6.0,178820.0,947
+C0153,Nirvi Kohli,Karimnagar,Telangana,Premium,Loyal Customers,275.0,7.0,175148.0,634
+C0011,Ira Butala,Pune,Maharashtra,Premium,Loyal Customers,16.0,5.0,170839.0,799
+C0070,Azad Bahl,Hyderabad,Telangana,Regular,Loyal Customers,181.0,5.0,168953.0,717
+C0424,Shray Borah,Salem,Tamil Nadu,Premium,Loyal Customers,57.0,6.0,166632.5,915
+C0814,Lakshay Deo,Mumbai,Maharashtra,Regular,Champions,28.0,6.0,166600.0,682
+C0065,Akarsh Thakkar,Agra,Uttar Pradesh,New,Loyal Customers,22.0,5.0,166464.5,476
+C0581,Tushar Kara,Kota,Rajasthan,Regular,Loyal Customers,68.0,6.0,164759.0,950
+C0704,Jhanvi Shanker,Noida,Uttar Pradesh,New,Champions,11.0,6.0,162547.0,604
+C0806,Jayesh Venkatesh,Khammam,Telangana,Regular,Champions,32.0,7.0,154716.0,391
+C0566,Neelofar Talwar,Khammam,Telangana,Regular,Loyal Customers,446.0,4.0,152363.0,427
+C0273,Ishaan Chanda,Khammam,Telangana,Premium,Loyal Customers,183.0,5.0,150269.5,411
+C0371,Baiju Bassi,Madurai,Tamil Nadu,Regular,Loyal Customers,55.0,8.0,148712.5,466
+C0789,Indranil Gera,Vadodara,Gujarat,New,Loyal Customers,160.0,8.0,148524.0,855
+C0680,Vihaan Dixit,Mumbai,Maharashtra,Regular,Loyal Customers,114.0,6.0,147977.0,944
+C0795,Indrajit Aggarwal,Pune,Maharashtra,Regular,Loyal Customers,69.0,5.0,147425.0,416
+C0970,Jiya Karpe,Kolkata,West Bengal,Regular,Loyal Customers,279.0,6.0,147042.0,1083
+C0607,Anvi Kothari,Udaipur,Rajasthan,New,Loyal Customers,120.0,4.0,146667.0,434
+C0282,Damini Wadhwa,Howrah,West Bengal,New,Loyal Customers,122.0,6.0,145496.0,854
+C0066,Parinaaz Shroff,Rohini,Delhi,Regular,Loyal Customers,88.0,6.0,144543.0,578
+C0644,Dhanuk Golla,Coimbatore,Tamil Nadu,New,Loyal Customers,75.0,9.0,144358.0,797
+C0832,Urvi Sha,Nizamabad,Telangana,Regular,Champions,1.0,10.0,142814.0,367
+C0919,Adira Sule,Janakpuri,Delhi,New,Loyal Customers,66.0,7.0,141751.0,701
+C0943,Abram Mani,Bhopal,Madhya Pradesh,Regular,Loyal Customers,114.0,5.0,140496.5,916
+C0294,Arhaan Srinivasan,Rajkot,Gujarat,Regular,Loyal Customers,234.0,6.0,139750.0,559
+C0993,Tarini Chaudhari,Jodhpur,Rajasthan,Premium,Champions,32.0,7.0,136724.0,907
+C0863,Yakshit Talwar,Khammam,Telangana,Regular,Champions,11.0,5.0,136568.0,1088
+C0528,Biju Badal,Indore,Madhya Pradesh,New,Loyal Customers,69.0,4.0,136200.0,788
+C0140,Jivin Sodhi,Khammam,Telangana,Regular,Champions,53.0,10.0,135065.5,743
+C0200,Azad D’Alia,Jodhpur,Rajasthan,Regular,Others,84.0,3.0,134854.0,845
+C0429,Hridaan Chawla,Howrah,West Bengal,Regular,Champions,7.0,8.0,133210.0,626
+C0344,Mamooty Borra,Agra,Uttar Pradesh,Regular,At Risk,309.0,3.0,133047.5,639
+C0411,Himmat Bhakta,Kanpur,Uttar Pradesh,Regular,Loyal Customers,98.0,5.0,132097.0,389
+C0224,Ivana Issac,Varanasi,Uttar Pradesh,New,Loyal Customers,333.0,7.0,130755.5,976
+C0297,Jivika Khurana,Kolkata,West Bengal,Regular,Loyal Customers,134.0,5.0,130494.0,524
+C0698,Badal Dass,Belagavi,Karnataka,New,Loyal Customers,516.0,4.0,129604.0,1000
+C0350,Elakshi Bhagat,Asansol,West Bengal,New,Champions,19.0,6.0,129310.0,515
+C0681,Jayan Basu,Belagavi,Karnataka,Premium,Loyal Customers,92.0,4.0,128857.0,722
+C0105,Ojas Badami,Janakpuri,Delhi,New,Loyal Customers,1.0,5.0,126634.5,385
+C0333,Sana Barad,Chennai,Tamil Nadu,Regular,Loyal Customers,148.0,6.0,125565.0,735
+C0469,Miraya Kala,Dwarka,Delhi,Premium,Loyal Customers,192.0,5.0,124863.0,788
+C0809,Akarsh Gaba,Karimnagar,Telangana,Premium,Champions,50.0,9.0,124838.5,588
+C0817,Keya Ahuja,Vadodara,Gujarat,Regular,Loyal Customers,169.0,4.0,124447.5,522
+C0936,Shamik Chaudhari,Chennai,Tamil Nadu,Regular,Champions,35.0,11.0,124236.5,860
+C0198,Krish Dhingra,Surat,Gujarat,New,Loyal Customers,110.0,7.0,124040.0,385
+C0351,Romil Soman,Vadodara,Gujarat,Regular,Loyal Customers,77.0,5.0,121988.5,715
+C0956,Riaan Rama,Ahmedabad,Gujarat,New,Champions,44.0,8.0,121542.0,831
+C0418,Damini Sangha,New Delhi,Delhi,Premium,Loyal Customers,193.0,6.0,121424.0,410
+C0685,Dishani Bera,Saket,Delhi,New,Loyal Customers,339.0,4.0,121410.0,916
+C0579,Elakshi Sule,Salem,Tamil Nadu,Premium,Champions,36.0,7.0,119797.0,1035
+C0432,Kavya Khosla,Nizamabad,Telangana,Regular,Champions,53.0,7.0,118242.0,1007
+C0204,Ivana Shere,Nashik,Maharashtra,Regular,Champions,25.0,6.0,117427.5,801
+C0034,Zeeshan Jani,Saket,Delhi,New,Loyal Customers,205.0,4.0,116769.0,389
+C0426,Yakshit Ranganathan,Mumbai,Maharashtra,Regular,Loyal Customers,10.0,4.0,115323.0,790
+C0627,Onkar Anand,Mumbai,Maharashtra,New,Loyal Customers,67.0,6.0,113957.5,845
+C0191,Abram Deep,Khammam,Telangana,Premium,Champions,10.0,8.0,113357.5,756
+C0729,Ishaan Halder,Dwarka,Delhi,Premium,Loyal Customers,116.0,6.0,113151.0,788
+C0150,Seher Bora,Ahmedabad,Gujarat,Regular,Loyal Customers,47.0,4.0,112524.0,505
+C0820,Ishita Loke,Khammam,Telangana,Regular,Loyal Customers,101.0,4.0,112462.5,713
+C0235,Piya Loke,Howrah,West Bengal,New,Loyal Customers,0.0,4.0,112050.0,485
+C0178,Vanya Karnik,Indore,Madhya Pradesh,New,Loyal Customers,74.0,7.0,111972.0,369
+C0410,Hunar Chokshi,Nizamabad,Telangana,Premium,Champions,43.0,8.0,110532.0,865
+C0857,Raghav Boase,Mangaluru,Karnataka,New,Loyal Customers,141.0,4.0,110389.5,639
+C0935,Diya Yogi,Noida,Uttar Pradesh,Regular,Loyal Customers,158.0,4.0,109956.0,743
+C0252,Dhanuk Sheth,Howrah,West Bengal,New,At Risk,341.0,3.0,109834.0,526
+C1000,Kiara Guha,Nagpur,Maharashtra,Premium,Loyal Customers,60.0,6.0,109169.0,762
+C0737,Mahika Keer,Bengaluru,Karnataka,New,Loyal Customers,240.0,6.0,108411.5,848
+C0886,Pihu Sarkar,Indore,Madhya Pradesh,Regular,Loyal Customers,65.0,10.0,108208.5,516
+C0779,Jiya Toor,Khammam,Telangana,Regular,Loyal Customers,466.0,5.0,107781.5,1046
+C0336,Hansh Ganguly,New Delhi,Delhi,Premium,Loyal Customers,149.0,7.0,107752.5,772
+C0312,Mohanlal Shere,Vadodara,Gujarat,Regular,At Risk,225.0,3.0,107584.0,704
+C0244,Romil Kade,Rajkot,Gujarat,Premium,Champions,21.0,5.0,107360.5,1020
+C0222,Heer Sankar,Janakpuri,Delhi,Regular,Loyal Customers,150.0,7.0,106419.0,1070
+C0215,Prerak Cheema,Dwarka,Delhi,Premium,Loyal Customers,285.0,7.0,106152.5,543
+C0054,Tara Maharaj,Bhopal,Madhya Pradesh,Premium,Loyal Customers,144.0,6.0,106130.0,404
+C0280,Chirag Deo,Rohini,Delhi,New,Champions,30.0,8.0,105946.5,923
+C0138,Saanvi Manne,Ahmedabad,Gujarat,New,Loyal Customers,320.0,5.0,105774.5,1000
+C0391,Trisha Sandal,Siliguri,West Bengal,New,Champions,17.0,5.0,104950.5,800
+C0393,Rhea Bhasin,Chennai,Tamil Nadu,New,Loyal Customers,136.0,4.0,104293.5,692
+C0731,Taimur Khatri,Janakpuri,Delhi,Premium,Loyal Customers,368.0,5.0,104276.5,879
+C0219,Indrans Bala,Nizamabad,Telangana,Regular,Champions,41.0,5.0,104104.0,1003
+C0446,Hunar Sodhi,Bhopal,Madhya Pradesh,Regular,Loyal Customers,211.0,4.0,103967.5,523
+C0229,Arhaan Kari,Janakpuri,Delhi,Premium,Loyal Customers,82.0,5.0,103612.0,640
+C0516,Tarini Mall,Varanasi,Uttar Pradesh,Regular,Loyal Customers,134.0,5.0,103588.0,727
+C0423,Rhea Saraf,Indore,Madhya Pradesh,Regular,Others,85.0,3.0,103476.0,548
+C0874,Sahil Luthra,Warangal,Telangana,Regular,Loyal Customers,217.0,6.0,103310.0,956
+C0699,Arhaan Khalsa,Nashik,Maharashtra,New,Loyal Customers,94.0,4.0,103043.5,426
+C0771,Dhanuk Wason,Mumbai,Maharashtra,Regular,Loyal Customers,180.0,5.0,102739.5,454
+C0302,Prisha Agrawal,Hyderabad,Telangana,Regular,Loyal Customers,163.0,4.0,101889.5,434
+C0693,Romil Suri,Kota,Rajasthan,New,Loyal Customers,80.0,4.0,101575.0,708
+C0721,Tiya Gulati,Ujjain,Madhya Pradesh,Regular,Others,47.0,3.0,101242.5,560
+C0082,Aaina Karan,Mumbai,Maharashtra,Regular,Others,30.0,3.0,100777.5,485
+C0092,Tejas Grewal,Chennai,Tamil Nadu,Regular,At Risk,134.0,3.0,100765.0,805
+C0533,Aarna Gera,Surat,Gujarat,Regular,Loyal Customers,177.0,4.0,100612.5,647
+C0331,Samaira Badal,Lucknow,Uttar Pradesh,Regular,Champions,10.0,6.0,100535.0,730
+C0203,Renee Sarin,Janakpuri,Delhi,New,Loyal Customers,234.0,5.0,100285.0,442
+C0850,Ishaan Issac,Gwalior,Madhya Pradesh,New,Loyal Customers,69.0,6.0,100266.0,1090
+C0315,Raunak Sachar,Hyderabad,Telangana,New,Loyal Customers,306.0,5.0,100157.0,804
+C0289,Kismat Vora,Lucknow,Uttar Pradesh,Premium,Others,20.0,3.0,99919.0,435
+C0161,Hansh Bassi,Madurai,Tamil Nadu,New,Loyal Customers,74.0,4.0,99840.0,950
+C0518,Azad Buch,Bengaluru,Karnataka,New,Champions,50.0,5.0,99160.0,1004
+C0266,Ritvik Chopra,Rajkot,Gujarat,Regular,Champions,18.0,5.0,98287.5,598
+C0794,Romil Kala,Jaipur,Rajasthan,Premium,Loyal Customers,151.0,7.0,98157.5,998
+C0873,Renee Borah,Kota,Rajasthan,New,Loyal Customers,259.0,5.0,98142.0,419
+C0146,Rhea Bora,Mumbai,Maharashtra,New,Champions,19.0,7.0,97509.0,529
+C0715,Kabir Sanghvi,Khammam,Telangana,Premium,Champions,10.0,7.0,96998.5,566
+C0903,Krish Sharaf,Udaipur,Rajasthan,Regular,Loyal Customers,42.0,4.0,95917.0,494
+C0211,Akarsh Lall,Gwalior,Madhya Pradesh,Regular,Champions,25.0,7.0,95399.5,871
+C0657,Dhanuk Sengupta,Ujjain,Madhya Pradesh,Premium,Loyal Customers,55.0,6.0,95147.5,830
+C0868,Sara Tandon,Kota,Rajasthan,Regular,Loyal Customers,236.0,4.0,95072.0,634
+C0831,Mahika Raj,Coimbatore,Tamil Nadu,Regular,Others,69.0,2.0,94987.0,673
+C0684,Abram Sampath,Howrah,West Bengal,Premium,Loyal Customers,204.0,5.0,94861.5,371
+C0756,Heer Hora,Lucknow,Uttar Pradesh,New,Loyal Customers,98.0,6.0,94663.5,613
+C0338,Tejas Ghosh,Agra,Uttar Pradesh,Premium,Champions,26.0,5.0,94568.5,1047
+C0915,Dishani Reddy,Mysuru,Karnataka,Regular,Loyal Customers,69.0,6.0,94151.5,636
+C0728,Tanya Atwal,Agra,Uttar Pradesh,Premium,Loyal Customers,84.0,6.0,94027.5,592
+C0505,Dhanuk Goyal,Pune,Maharashtra,New,Champions,7.0,7.0,93873.5,494
+C0782,Mohanlal Sankar,Coimbatore,Tamil Nadu,Regular,Loyal Customers,162.0,5.0,93712.5,384
+C0560,Shayak Tara,Mysuru,Karnataka,New,Champions,54.0,7.0,93471.5,783
+C0825,Tanya Chand,Rajkot,Gujarat,Regular,Loyal Customers,234.0,6.0,93283.0,421
+C0363,Yasmin Badami,Mangaluru,Karnataka,Premium,Loyal Customers,116.0,4.0,93076.5,688
+C0407,Raghav Bala,Gandhinagar,Gujarat,New,Loyal Customers,188.0,5.0,92819.0,710
+C0844,Umang Ranganathan,Hyderabad,Telangana,Regular,Champions,54.0,10.0,92150.0,1082
+C0113,Nayantara Bansal,Ujjain,Madhya Pradesh,Premium,Others,80.0,3.0,92097.0,1068
+C0628,Indrans Kapoor,Jodhpur,Rajasthan,Premium,Loyal Customers,141.0,5.0,91579.5,912
+C0573,Aarna Shah,Rohini,Delhi,Regular,Loyal Customers,74.0,5.0,91478.0,1062
+C0287,Mannat Rama,Noida,Uttar Pradesh,New,Loyal Customers,288.0,6.0,91430.5,1038
+C0308,Ishaan Garg,Tiruchirappalli,Tamil Nadu,Regular,Loyal Customers,148.0,6.0,91284.5,926
+C0823,Kismat Kohli,Jodhpur,Rajasthan,Premium,At Risk,277.0,3.0,91042.0,627
+C0167,Nirvi Bose,Noida,Uttar Pradesh,Regular,Loyal Customers,92.0,6.0,90254.0,1054
+C0449,Renee Butala,Hyderabad,Telangana,Premium,Loyal Customers,57.0,5.0,90149.5,1025
+C0043,Dharmajan Dara,Bengaluru,Karnataka,Regular,Loyal Customers,35.0,5.0,90115.0,683
+C0934,Bhamini Arora,Madurai,Tamil Nadu,Regular,Loyal Customers,142.0,5.0,88740.5,523
+C0480,Yakshit Datta,Agra,Uttar Pradesh,Regular,Champions,13.0,5.0,88677.5,727
+C0485,Jayesh Srivastava,Indore,Madhya Pradesh,Regular,Loyal Customers,156.0,5.0,88407.5,584
+C0717,Vidur Sarraf,Dwarka,Delhi,New,Champions,26.0,6.0,88207.0,966
+C0638,Rati Bassi,Kolkata,West Bengal,New,Loyal Customers,242.0,4.0,87648.5,422
+C0500,Aayush Thaker,Mumbai,Maharashtra,New,Others,5.0,3.0,87578.0,376
+C0552,Raghav Chaudhuri,Jabalpur,Madhya Pradesh,New,At Risk,165.0,3.0,87532.5,697
+C0736,Madhav Gulati,Rohini,Delhi,Premium,Loyal Customers,113.0,4.0,87460.0,718
+C0096,Parinaaz Sem,Kota,Rajasthan,New,Others,30.0,3.0,87352.0,686
+C0311,Hansh Lall,Varanasi,Uttar Pradesh,New,Loyal Customers,218.0,5.0,87260.0,897
+C0862,Lavanya Bhagat,Siliguri,West Bengal,Premium,Loyal Customers,84.0,4.0,87065.5,1011
+C0064,Shray Raj,Lucknow,Uttar Pradesh,Regular,Loyal Customers,104.0,4.0,86502.5,986
+C0654,Anaya Bora,Khammam,Telangana,New,Loyal Customers,86.0,4.0,86367.0,840
+C0328,Romil Barad,Saket,Delhi,New,Loyal Customers,74.0,6.0,85565.5,669
+C0826,Kartik Sood,Ahmedabad,Gujarat,Regular,Loyal Customers,338.0,4.0,85445.5,552
+C0878,Pihu Grover,Kanpur,Uttar Pradesh,New,Champions,46.0,5.0,85322.0,743
+C0739,Heer Das,Madurai,Tamil Nadu,New,Loyal Customers,214.0,6.0,85290.5,390
+C0427,Parinaaz Sampath,Durgapur,West Bengal,Premium,Champions,47.0,6.0,85274.0,630
+C0909,Anaya Gupta,Janakpuri,Delhi,Regular,Loyal Customers,166.0,3.0,85232.5,757
+C0828,Romil Goyal,Indore,Madhya Pradesh,New,Loyal Customers,127.0,7.0,84592.5,964
+C0205,Dhanuk Apte,Hubballi,Karnataka,Premium,Loyal Customers,109.0,6.0,84535.5,742
+C0908,Alia Kalita,Dwarka,Delhi,New,Loyal Customers,61.0,3.0,84267.5,904
+C0364,Lakshay Mani,Karimnagar,Telangana,Premium,Champions,21.0,5.0,84238.0,676
+C0003,Divit Gola,Mysuru,Karnataka,Regular,Champions,11.0,6.0,84096.5,857
+C0187,Ehsaan Dugar,Khammam,Telangana,Regular,Champions,49.0,6.0,84034.5,709
+C0865,Shamik Goda,Mysuru,Karnataka,Regular,Loyal Customers,126.0,3.0,83775.0,1071
+C0520,Aayush Samra,Varanasi,Uttar Pradesh,Regular,Loyal Customers,55.0,5.0,83578.5,698
+C0495,Trisha Vyas,Bengaluru,Karnataka,New,Loyal Customers,19.0,4.0,82879.0,559
+C0358,Samarth Gour,Durgapur,West Bengal,New,Loyal Customers,7.0,4.0,82793.5,369
+C0541,Krish Kara,Saket,Delhi,Regular,Others,201.0,2.0,82732.5,564
+C0949,Siya Jani,Bengaluru,Karnataka,New,Loyal Customers,208.0,4.0,82389.0,533
+C0745,Ivan Bhargava,Kanpur,Uttar Pradesh,New,Loyal Customers,89.0,5.0,82276.0,618
+C0572,Ayesha Dube,Gandhinagar,Gujarat,Premium,Loyal Customers,246.0,5.0,82250.0,872
+C0614,Hansh Bhakta,Kota,Rajasthan,Regular,Loyal Customers,57.0,8.0,81761.0,1011
+C0784,Nirvi Raja,Ujjain,Madhya Pradesh,New,Loyal Customers,98.0,5.0,81738.5,378
+C0920,Indranil Doshi,Saket,Delhi,Regular,Loyal Customers,104.0,3.0,81707.0,579
+C0532,Keya Wali,Ujjain,Madhya Pradesh,Regular,Loyal Customers,85.0,5.0,81635.5,911
+C0227,Rasha Sani,Indore,Madhya Pradesh,Regular,Others,58.0,3.0,81635.0,671
+C0160,Priyansh Bose,Indore,Madhya Pradesh,New,Champions,19.0,7.0,81366.5,660
+C0357,Badal Bhagat,Surat,Gujarat,Regular,Others,63.0,3.0,80108.0,365
+C0838,Trisha Tara,Rohini,Delhi,Premium,Loyal Customers,437.0,4.0,79991.0,931
+C0550,Mehul Dhingra,Jodhpur,Rajasthan,Regular,Loyal Customers,248.0,4.0,79942.0,905
+C0890,Seher Dave,Gandhinagar,Gujarat,New,Loyal Customers,61.0,8.0,79696.5,984
+C0441,Rasha Raja,Saket,Delhi,Regular,Loyal Customers,270.0,7.0,79600.5,1012
+C0284,Himmat Rau,Salem,Tamil Nadu,Regular,Champions,18.0,5.0,79186.5,620
+C0952,Parinaaz Korpal,Ajmer,Rajasthan,Regular,Loyal Customers,247.0,3.0,79115.0,986
+C0197,Damini Samra,New Delhi,Delhi,Premium,Others,32.0,3.0,79018.0,651
+C0702,Kavya Kunda,Kanpur,Uttar Pradesh,New,Champions,16.0,5.0,78863.0,997
+C0511,Kartik Ranganathan,Surat,Gujarat,Regular,Loyal Customers,79.0,7.0,78700.0,731
+C0986,Vedika Raman,Agra,Uttar Pradesh,Regular,Loyal Customers,114.0,4.0,78582.0,763
+C0917,Taimur Sharaf,Indore,Madhya Pradesh,Regular,Loyal Customers,39.0,4.0,78447.5,457
+C0168,Emir Sodhi,Gandhinagar,Gujarat,Regular,Champions,8.0,6.0,78235.0,428
+C0982,Kaira Sagar,Hubballi,Karnataka,New,Loyal Customers,282.0,5.0,78198.5,753
+C0477,Raunak Chana,Dwarka,Delhi,Regular,Loyal Customers,258.0,4.0,78110.0,975
+C0087,Eshani Baral,Nizamabad,Telangana,Regular,Loyal Customers,83.0,4.0,78032.5,413
+C0834,Kiaan Sandhu,Coimbatore,Tamil Nadu,Regular,Loyal Customers,74.0,7.0,77947.0,580
+C0164,Himmat Doshi,Noida,Uttar Pradesh,Regular,Loyal Customers,50.0,5.0,77865.0,543
+C0281,Uthkarsh Sachdeva,Khammam,Telangana,Premium,Loyal Customers,156.0,5.0,77581.5,897
+C0829,Sumer Roy,Karimnagar,Telangana,Premium,Champions,24.0,6.0,77392.5,667
+C0815,Kimaya Badami,Belagavi,Karnataka,Regular,Loyal Customers,156.0,6.0,77277.0,462
+C0004,Azad Sahota,Warangal,Telangana,Regular,At Risk,130.0,3.0,77190.5,430
+C0584,Adira Sehgal,Rajkot,Gujarat,Regular,At Risk,435.0,3.0,76803.5,760
+C0207,Zain Wadhwa,Kota,Rajasthan,New,Loyal Customers,430.0,6.0,76784.5,986
+C0676,Lakshit Kaul,Gandhinagar,Gujarat,New,Loyal Customers,171.0,4.0,76730.0,779
+C0303,Manjari Garg,Nagpur,Maharashtra,New,Champions,3.0,7.0,76670.0,779
+C0538,Fateh Bora,Mysuru,Karnataka,Regular,At Risk,215.0,3.0,76543.0,422
+C0173,Yasmin Viswanathan,Durgapur,West Bengal,New,Champions,17.0,7.0,76440.0,764
+C0217,Shlok Chada,Vadodara,Gujarat,Premium,Others,61.0,3.0,76438.5,749
+C0231,Neelofar Chowdhury,Nashik,Maharashtra,New,Loyal Customers,195.0,4.0,76169.0,813
+C0183,Myra Salvi,Saket,Delhi,Regular,Others,70.0,3.0,75950.5,575
+C0457,Priyansh Ray,Madurai,Tamil Nadu,Premium,Loyal Customers,9.0,4.0,75940.5,902
+C0960,Ivana Deep,Saket,Delhi,New,Loyal Customers,77.0,5.0,75879.0,820
+C0574,Abram Bhardwaj,Hubballi,Karnataka,Regular,Others,78.0,2.0,74646.0,975
+C0051,Biju Butala,Ujjain,Madhya Pradesh,Regular,Loyal Customers,89.0,5.0,74284.0,1033
+C0130,Navya Dada,Ujjain,Madhya Pradesh,Regular,Loyal Customers,194.0,4.0,74243.5,600
+C0513,Divyansh Madan,Belagavi,Karnataka,Regular,Loyal Customers,10.0,4.0,74149.0,793
+C0688,Ritvik Chandra,Bhopal,Madhya Pradesh,New,Champions,1.0,6.0,74136.5,587
+C0349,Jayesh Kanda,Pune,Maharashtra,New,Loyal Customers,403.0,4.0,74100.0,1027
+C0002,Jhanvi Chaudhary,Hyderabad,Telangana,Regular,Loyal Customers,273.0,7.0,73777.0,491
+C0325,Kanav Lala,Jabalpur,Madhya Pradesh,New,Loyal Customers,251.0,6.0,73707.0,1031
+C0652,Indranil Mane,Asansol,West Bengal,New,Others,95.0,3.0,73395.0,570
+C0403,Samarth Toor,Coimbatore,Tamil Nadu,Regular,Others,101.0,3.0,73287.0,1063
+C0724,Madhup Kapadia,Udaipur,Rajasthan,Regular,Champions,26.0,7.0,72938.0,703
+C0365,Vardaniya Sheth,Madurai,Tamil Nadu,New,At Risk,245.0,3.0,72908.0,438
+C0029,Lakshay Kale,Tiruchirappalli,Tamil Nadu,Premium,Others,57.0,3.0,72770.5,552
+C0081,Aniruddh Chana,Mumbai,Maharashtra,New,Loyal Customers,353.0,5.0,72732.5,828
+C0597,Kashvi Chauhan,Jodhpur,Rajasthan,New,Loyal Customers,307.0,5.0,72666.5,606
+C0733,Biju Saxena,Mangaluru,Karnataka,Regular,Champions,37.0,5.0,72665.0,369
+C0158,Vritika Sankaran,Lucknow,Uttar Pradesh,New,Champions,29.0,9.0,72480.0,858
+C0548,Hiran Bose,Mysuru,Karnataka,Regular,Loyal Customers,94.0,6.0,72432.0,846
+C0639,Hridaan Tiwari,Mysuru,Karnataka,Premium,Loyal Customers,89.0,5.0,72334.5,553
+C0558,Oorja Singh,Indore,Madhya Pradesh,Regular,Loyal Customers,114.0,4.0,72051.0,406
+C0529,Ritvik Varghese,Vadodara,Gujarat,Premium,Others,107.0,3.0,71823.5,914
+C0177,Piya Korpal,Varanasi,Uttar Pradesh,Regular,Loyal Customers,165.0,4.0,71424.0,380
+C0126,Indrajit Jhaveri,Bhopal,Madhya Pradesh,Regular,Loyal Customers,170.0,6.0,71292.5,740
+C0938,Diya Arora,Khammam,Telangana,Regular,At Risk,145.0,2.0,70794.5,382
+C0032,Nitya Lanka,Hubballi,Karnataka,Premium,Loyal Customers,43.0,4.0,70751.5,1025
+C0408,Shamik Randhawa,Gandhinagar,Gujarat,Regular,Champions,7.0,5.0,70740.0,745
+C0738,Sana Wable,Salem,Tamil Nadu,Regular,Others,20.0,3.0,70648.0,495
+C0730,Taran Desai,Durgapur,West Bengal,Regular,At Risk,175.0,3.0,70625.5,669
+C0994,Yasmin Tella,Rohini,Delhi,Regular,Loyal Customers,197.0,6.0,70558.0,378
+C0922,Kismat Bhattacharyya,Khammam,Telangana,New,Loyal Customers,57.0,4.0,70503.5,975
+C0143,Nirvaan Shanker,Dwarka,Delhi,New,Loyal Customers,29.0,5.0,70440.5,600
+C0171,Akarsh Vala,Mysuru,Karnataka,Regular,Loyal Customers,8.0,5.0,70204.0,758
+C0464,Vidur Agrawal,Rohini,Delhi,Premium,At Risk,221.0,3.0,69762.5,949
+C0587,Aarna Dutta,Agra,Uttar Pradesh,Regular,Loyal Customers,8.0,5.0,69704.0,535
+C0746,Aniruddh Ram,Bhopal,Madhya Pradesh,Regular,At Risk,270.0,3.0,69398.5,1088
+C0050,Reyansh Sastry,Coimbatore,Tamil Nadu,New,Loyal Customers,48.0,7.0,68588.0,792
+C0154,Divit Lala,Jabalpur,Madhya Pradesh,Regular,Loyal Customers,120.0,4.0,68523.5,783
+C0459,Yasmin Thaker,Dwarka,Delhi,New,Loyal Customers,311.0,5.0,68484.5,1027
+C0527,Nishith Bhagat,Jabalpur,Madhya Pradesh,Regular,At Risk,379.0,3.0,68150.5,758
+C0044,Anika Malhotra,Dwarka,Delhi,Regular,Loyal Customers,109.0,4.0,68050.5,901
+C0744,Reyansh Edwin,Varanasi,Uttar Pradesh,Premium,At Risk,394.0,3.0,67525.5,710
+C0460,Saira Kibe,Gandhinagar,Gujarat,Regular,Loyal Customers,80.0,6.0,67511.0,407
+C0669,Piya Kadakia,Chennai,Tamil Nadu,Regular,Lost,344.0,2.0,67511.0,769
+C0491,Neelofar Joshi,Kolkata,West Bengal,Regular,Loyal Customers,84.0,5.0,67456.5,463
+C0536,Aniruddh Chaudhary,Gandhinagar,Gujarat,Regular,Loyal Customers,293.0,6.0,66994.0,605
+C0941,Yasmin Chaudry,Kanpur,Uttar Pradesh,New,Loyal Customers,355.0,4.0,66389.0,716
+C0190,Charvi Ray,Jodhpur,Rajasthan,Premium,Loyal Customers,101.0,5.0,66237.5,588
+C0433,Samar Kashyap,Coimbatore,Tamil Nadu,New,Loyal Customers,223.0,5.0,66206.5,607
+C0053,Jivin Master,Aurangabad,Maharashtra,Premium,Loyal Customers,34.0,4.0,66102.0,1013
+C0417,Jayant Sabharwal,Chennai,Tamil Nadu,Regular,Loyal Customers,6.0,7.0,65726.5,465
+C0589,Riaan Sarraf,Mumbai,Maharashtra,Regular,Others,11.0,3.0,65719.5,934
+C0896,Kaira Roy,Siliguri,West Bengal,Regular,Loyal Customers,135.0,5.0,65665.5,1085
+C0399,Mohanlal Sankaran,Gwalior,Madhya Pradesh,Premium,Loyal Customers,145.0,5.0,65510.0,609
+C0855,Ritvik Hayer,Dwarka,Delhi,New,Loyal Customers,110.0,6.0,65254.0,416
+C0954,Arhaan Edwin,Rajkot,Gujarat,Regular,Loyal Customers,435.0,4.0,65052.5,519
+C0658,Alisha Thaman,Mumbai,Maharashtra,Premium,Loyal Customers,79.0,4.0,64970.0,893
+C0499,Saksham Iyer,Mumbai,Maharashtra,New,Loyal Customers,46.0,5.0,64698.5,680
+C0366,Umang Srinivasan,Nizamabad,Telangana,Premium,Loyal Customers,140.0,4.0,64628.5,964
+C0118,Nakul Kaul,Howrah,West Bengal,New,Others,124.0,3.0,64579.0,430
+C0306,Taran Mammen,Khammam,Telangana,New,Loyal Customers,456.0,4.0,64211.0,556
+C0906,Shayak Basak,Rajkot,Gujarat,New,Loyal Customers,24.0,4.0,63903.0,477
+C0895,Ehsaan Sani,Salem,Tamil Nadu,Regular,Loyal Customers,129.0,5.0,63853.5,582
+C0630,Samiha Sheth,Durgapur,West Bengal,Regular,Others,0.0,2.0,63542.0,1016
+C0133,Ishaan Setty,Kolkata,West Bengal,Premium,Loyal Customers,111.0,4.0,63529.5,589
+C0555,Dhanuk Shroff,Janakpuri,Delhi,New,Others,117.0,3.0,63515.0,979
+C0245,Kiaan Ramanathan,Indore,Madhya Pradesh,New,Loyal Customers,204.0,4.0,63393.5,1028
+C0437,Shanaya Tandon,Vadodara,Gujarat,Regular,Loyal Customers,10.0,6.0,63188.5,932
+C0292,Zaina Maharaj,Warangal,Telangana,Regular,Loyal Customers,92.0,6.0,63109.5,1032
+C0576,Divit Banerjee,Tiruchirappalli,Tamil Nadu,Regular,Loyal Customers,89.0,4.0,62970.0,953
+C0452,Kiara Basak,Jaipur,Rajasthan,Premium,Loyal Customers,207.0,5.0,62936.0,396
+C0864,Sumer Dash,Janakpuri,Delhi,New,Lost,575.0,2.0,62920.0,989
+C0295,Ela Amble,Durgapur,West Bengal,New,Others,1.0,3.0,62879.0,806
+C0383,Jiya Khurana,Dwarka,Delhi,Premium,Others,97.0,3.0,62849.5,760
+C0805,Tarini Apte,Khammam,Telangana,New,Loyal Customers,11.0,4.0,62838.0,517
+C0389,Anika Dora,Madurai,Tamil Nadu,Regular,Loyal Customers,267.0,4.0,62715.0,721
+C0088,Samiha Tank,Noida,Uttar Pradesh,New,Loyal Customers,283.0,5.0,62624.5,965
+C0626,Mohanlal Ramakrishnan,Bhopal,Madhya Pradesh,Regular,Loyal Customers,103.0,4.0,62484.0,862
+C0887,Lagan Yogi,Jodhpur,Rajasthan,New,Loyal Customers,47.0,3.0,62415.0,1091
+C0185,Raghav Batra,Nagpur,Maharashtra,Premium,At Risk,219.0,3.0,62297.5,790
+C0879,Myra Rao,Coimbatore,Tamil Nadu,Regular,Loyal Customers,392.0,4.0,62208.5,869
+C0345,Alia Madan,Salem,Tamil Nadu,Regular,Loyal Customers,294.0,7.0,61766.5,736
+C0810,Samaira Vohra,Vadodara,Gujarat,New,At Risk,136.0,3.0,61752.5,849
+C0047,Ojas Venkataraman,Mysuru,Karnataka,Regular,Loyal Customers,212.0,5.0,61698.5,925
+C0182,Mishti Johal,Surat,Gujarat,Regular,At Risk,197.0,3.0,61509.0,628
+C0378,Pihu Vyas,Surat,Gujarat,Regular,Loyal Customers,317.0,4.0,61392.5,747
+C0400,Charvi Loke,Kolkata,West Bengal,Regular,Others,24.0,2.0,61173.5,669
+C0867,Vivaan Ranganathan,Hyderabad,Telangana,Premium,Loyal Customers,106.0,7.0,61170.5,507
+C0742,Saira Bajaj,Hyderabad,Telangana,New,Loyal Customers,191.0,6.0,61126.0,397
+C0677,Pihu Shukla,Bengaluru,Karnataka,Regular,Loyal Customers,97.0,6.0,60812.0,857
+C0509,Shayak Srinivas,New Delhi,Delhi,Regular,Loyal Customers,229.0,4.0,60798.0,747
+C0833,Ivana Lanka,Dwarka,Delhi,Regular,At Risk,471.0,3.0,60643.5,456
+C0674,Mohanlal Tank,Siliguri,West Bengal,Regular,Loyal Customers,131.0,5.0,60526.0,1067
+C0225,Emir Manda,Varanasi,Uttar Pradesh,New,Loyal Customers,298.0,7.0,60462.5,977
+C0027,Onkar Bains,Noida,Uttar Pradesh,Regular,Loyal Customers,69.0,5.0,60444.0,913
+C0230,Jayesh Virk,Mangaluru,Karnataka,Premium,Loyal Customers,86.0,4.0,60307.0,538
+C0334,Adira Joshi,Rajkot,Gujarat,New,Others,49.0,3.0,60296.0,449
+C0463,Anika Sehgal,Gwalior,Madhya Pradesh,Regular,Loyal Customers,95.0,4.0,60217.0,504
+C0515,Farhan Desai,Udaipur,Rajasthan,New,Loyal Customers,199.0,4.0,60190.0,726
+C0762,Mannat Tripathi,Nizamabad,Telangana,New,At Risk,190.0,3.0,60127.0,672
+C0374,Yuvaan Taneja,Saket,Delhi,Regular,Loyal Customers,77.0,5.0,60109.5,669
+C0286,Kimaya Rajagopal,Salem,Tamil Nadu,Regular,Lost,393.0,2.0,60012.5,1026
+C0961,Aayush Grewal,Surat,Gujarat,Regular,At Risk,174.0,2.0,60000.0,855
+C0210,Renee Sarma,Jabalpur,Madhya Pradesh,Regular,At Risk,509.0,3.0,59722.5,802
+C0813,Saanvi Kumer,Hubballi,Karnataka,New,Loyal Customers,55.0,5.0,59701.0,638
+C0109,Parinaaz Kar,Durgapur,West Bengal,Premium,Others,26.0,3.0,59672.0,696
+C0471,Miraan Ranganathan,Khammam,Telangana,New,Loyal Customers,319.0,4.0,59649.0,958
+C0989,Baiju Das,Ajmer,Rajasthan,Regular,Loyal Customers,53.0,3.0,59494.5,510
+C0367,Hridaan Sodhi,Salem,Tamil Nadu,Premium,Loyal Customers,239.0,5.0,59428.5,581
+C0304,Saira Deshmukh,Asansol,West Bengal,New,At Risk,524.0,3.0,58911.0,899
+C0701,Rania Dugar,Ajmer,Rajasthan,New,Loyal Customers,97.0,6.0,58873.5,542
+C0382,Veer Goel,Nagpur,Maharashtra,Premium,At Risk,286.0,3.0,58790.0,702
+C0712,Samiha Walla,Hyderabad,Telangana,Premium,Loyal Customers,34.0,4.0,58779.5,699
+C0594,Tushar Ahluwalia,Jaipur,Rajasthan,New,Others,108.0,3.0,58688.0,375
+C0007,Siya Master,Kolkata,West Bengal,New,Loyal Customers,100.0,6.0,58650.5,1001
+C0077,Dishani Ramakrishnan,Surat,Gujarat,Premium,Others,70.0,3.0,58502.5,891
+C0902,Seher Bhattacharyya,Noida,Uttar Pradesh,Regular,Loyal Customers,329.0,4.0,58352.0,538
+C0914,Kiaan Deep,Ujjain,Madhya Pradesh,New,Others,262.0,1.0,58260.0,443
+C0732,Gokul Comar,Gandhinagar,Gujarat,Premium,Loyal Customers,88.0,4.0,58032.5,713
+C0766,Elakshi Sani,Vadodara,Gujarat,Regular,Lost,298.0,2.0,57980.0,881
+C0968,Kartik Tella,Gandhinagar,Gujarat,Regular,Loyal Customers,365.0,4.0,57930.0,1062
+C0888,Misha Sami,Udaipur,Rajasthan,New,Loyal Customers,54.0,5.0,57924.5,727
+C0069,Navya Grewal,Hyderabad,Telangana,New,Others,228.0,2.0,57828.5,981
+C0212,Devansh Grover,Chennai,Tamil Nadu,Regular,At Risk,278.0,3.0,57570.5,453
+C0564,Diya Reddy,Asansol,West Bengal,New,Others,6.0,2.0,57485.0,461
+C0975,Nishith Uppal,Udaipur,Rajasthan,New,Loyal Customers,254.0,3.0,57346.0,634
+C0991,Mohanlal Lad,Agra,Uttar Pradesh,Regular,Loyal Customers,107.0,4.0,57262.5,476
+C0386,Reyansh Kibe,Karimnagar,Telangana,New,Loyal Customers,259.0,5.0,57214.0,849
+C0321,Indranil Krish,Surat,Gujarat,Regular,Loyal Customers,17.0,7.0,57074.5,373
+C0600,Pranay Halder,Belagavi,Karnataka,New,At Risk,208.0,3.0,56989.0,519
+C0176,Reyansh Boase,Ahmedabad,Gujarat,New,Others,79.0,3.0,56911.5,887
+C0799,Shayak Ray,Jodhpur,Rajasthan,New,Loyal Customers,13.0,7.0,56882.5,980
+C0091,Samarth Ramakrishnan,Rajkot,Gujarat,Regular,Loyal Customers,337.0,5.0,56852.0,643
+C0786,Anya Sane,Surat,Gujarat,New,Others,144.0,2.0,56492.0,472
+C0208,Shray Mandal,Gwalior,Madhya Pradesh,New,Loyal Customers,266.0,4.0,56469.5,379
+C0013,Hrishita Bhatti,Madurai,Tamil Nadu,New,Lost,349.0,1.0,56450.5,732
+C0911,Kaira Suresh,Pune,Maharashtra,New,Loyal Customers,19.0,5.0,56388.0,1051
+C0972,Taran Sidhu,Tiruchirappalli,Tamil Nadu,New,Loyal Customers,81.0,3.0,56252.0,826
+C0653,Vivaan Sodhi,Kanpur,Uttar Pradesh,Premium,At Risk,141.0,3.0,55913.5,1064
+C0139,Vivaan Datta,Rohini,Delhi,Regular,Others,91.0,3.0,55770.0,416
+C0774,Aarush Raj,Gandhinagar,Gujarat,Regular,Others,76.0,3.0,55641.5,485
+C0506,Aradhya Sawhney,Mangaluru,Karnataka,Regular,Others,124.0,3.0,55630.0,929
+C0944,Jivika Tiwari,Pune,Maharashtra,Premium,Loyal Customers,180.0,3.0,55550.0,423
+C0925,Darshit Kar,Janakpuri,Delhi,New,Others,25.0,2.0,55508.0,705
+C0719,Devansh Swaminathan,Kolkata,West Bengal,New,Loyal Customers,66.0,6.0,55466.0,1006
+C0421,Elakshi Roy,Kota,Rajasthan,Regular,Others,4.0,3.0,55412.0,607
+C0783,Divij Kunda,Varanasi,Uttar Pradesh,New,Loyal Customers,282.0,4.0,55200.0,418
+C0169,Diya Shenoy,Tiruchirappalli,Tamil Nadu,Regular,Others,28.0,3.0,55047.0,649
+C0388,Trisha Handa,Noida,Uttar Pradesh,Premium,Loyal Customers,18.0,6.0,54955.5,1087
+C0542,Ela Goda,Vadodara,Gujarat,Regular,Others,177.0,2.0,54757.5,695
+C0151,Onkar Singh,Coimbatore,Tamil Nadu,Premium,Loyal Customers,5.0,4.0,54642.5,519
+C0807,Damini Loyal,Jodhpur,Rajasthan,New,Loyal Customers,150.0,4.0,54596.0,602
+C0102,Kabir Salvi,Noida,Uttar Pradesh,Regular,Loyal Customers,198.0,4.0,54163.5,599
+C0166,Kiara Mahajan,Mumbai,Maharashtra,Premium,Loyal Customers,75.0,6.0,54149.5,861
+C0907,Misha Walla,Surat,Gujarat,New,At Risk,132.0,2.0,54120.0,860
+C0369,Trisha Kannan,Howrah,West Bengal,Premium,Loyal Customers,133.0,4.0,54075.0,741
+C0309,Kabir Varma,Udaipur,Rajasthan,Regular,At Risk,628.0,3.0,53963.5,403
+C0285,Alia Raman,Ujjain,Madhya Pradesh,Premium,Loyal Customers,73.0,4.0,53877.0,765
+C0510,Vidur Dada,Kolkata,West Bengal,New,Others,125.0,3.0,53669.0,446
+C0955,Raghav Sarin,Asansol,West Bengal,Regular,Loyal Customers,151.0,5.0,53600.0,398
+C0337,Aradhya Hora,Karimnagar,Telangana,New,At Risk,176.0,3.0,53436.5,836
+C0570,Dharmajan Sibal,Khammam,Telangana,Regular,Loyal Customers,65.0,5.0,53380.0,980
+C0981,Ojas Baral,Chennai,Tamil Nadu,Premium,Loyal Customers,360.0,4.0,53356.0,875
+C0716,Jiya Baral,Hubballi,Karnataka,Premium,Loyal Customers,10.0,6.0,53341.5,918
+C0891,Ela Badami,Kanpur,Uttar Pradesh,New,Loyal Customers,70.0,3.0,53200.0,544
+C0606,Yuvraj  Solanki,Nagpur,Maharashtra,Regular,Lost,402.0,2.0,52985.0,885
+C0206,Aniruddh Halder,Udaipur,Rajasthan,Premium,Others,19.0,2.0,52944.5,628
+C0136,Madhup Bhavsar,Warangal,Telangana,New,Loyal Customers,100.0,4.0,52903.0,1008
+C0112,Taran Malhotra,Asansol,West Bengal,Premium,Others,25.0,3.0,52660.5,926
+C0462,Raghav Kannan,Pune,Maharashtra,Premium,Loyal Customers,31.0,6.0,52433.0,580
+C0116,Tiya Mangal,Durgapur,West Bengal,New,Loyal Customers,115.0,5.0,52318.0,707
+C0720,Nehmat Gill,Nizamabad,Telangana,Regular,Lost,496.0,2.0,52292.0,813
+C0012,Shayak Anne,Hubballi,Karnataka,Regular,Loyal Customers,286.0,4.0,52263.0,811
+C0563,Kismat Gaba,Warangal,Telangana,New,At Risk,369.0,3.0,52262.5,594
+C0275,Rania Master,Siliguri,West Bengal,Regular,Others,34.0,3.0,52012.0,656
+C0257,Charvi Agate,Mangaluru,Karnataka,New,Lost,310.0,2.0,51917.0,508
+C0442,Faiyaz Lad,Belagavi,Karnataka,New,At Risk,344.0,3.0,51548.5,981
+C0439,Vardaniya Bhatia,Salem,Tamil Nadu,Regular,Loyal Customers,27.0,4.0,51540.0,939
+C0163,Hunar Balay,Hubballi,Karnataka,New,Loyal Customers,21.0,5.0,51492.0,390
+C0811,Nakul Sunder,Aurangabad,Maharashtra,Regular,Others,234.0,2.0,51438.5,867
+C0397,Anvi Kamdar,Siliguri,West Bengal,New,Loyal Customers,238.0,5.0,51437.0,769
+C0132,Armaan Agrawal,Janakpuri,Delhi,Regular,Others,20.0,2.0,51431.5,512
+C0149,Hazel Sachar,Varanasi,Uttar Pradesh,Premium,At Risk,417.0,3.0,51425.5,979
+C0588,Charvi Sangha,Kolkata,West Bengal,New,Loyal Customers,195.0,7.0,51423.0,1048
+C0822,Divyansh Loyal,Mangaluru,Karnataka,New,Others,42.0,3.0,51320.0,470
+C0020,Nirvaan Goyal,Jabalpur,Madhya Pradesh,New,Loyal Customers,9.0,4.0,51031.5,498
+C0472,Devansh Batta,Rohini,Delhi,New,Loyal Customers,98.0,4.0,50985.5,433
+C0695,Uthkarsh Reddy,Salem,Tamil Nadu,Regular,Loyal Customers,137.0,4.0,50903.0,1020
+C0765,Hiran Shere,Howrah,West Bengal,Regular,Others,43.0,2.0,50890.0,775
+C0624,Lagan Chanda,Rajkot,Gujarat,New,Loyal Customers,37.0,5.0,50733.5,572
+C0668,Emir Bobal,Siliguri,West Bengal,New,At Risk,252.0,3.0,50727.5,581
+C0696,Kanav Bail,Lucknow,Uttar Pradesh,New,Loyal Customers,55.0,4.0,50674.5,769
+C0144,Miraan Dora,Mysuru,Karnataka,New,Loyal Customers,19.0,4.0,50627.5,792
+C0317,Sahil Srivastava,Mysuru,Karnataka,Premium,Loyal Customers,90.0,5.0,50612.5,634
+C0776,Renee Shah,Salem,Tamil Nadu,New,Others,44.0,3.0,50249.0,1076
+C0659,Lakshay Chandran,Chennai,Tamil Nadu,New,Others,14.0,3.0,50190.0,756
+C0670,Anya Rana,Lucknow,Uttar Pradesh,Regular,At Risk,312.0,3.0,50179.0,612
+C0512,Dharmajan Swamy,Jodhpur,Rajasthan,Regular,Loyal Customers,34.0,4.0,49779.0,399
+C0362,Rohan Kulkarni,Gandhinagar,Gujarat,Regular,Others,131.0,2.0,49748.0,963
+C0444,Elakshi Sahni,Mysuru,Karnataka,Regular,Others,28.0,3.0,49596.5,498
+C0866,Shayak Swaminathan,Mumbai,Maharashtra,New,Loyal Customers,139.0,4.0,49504.0,1020
+C0455,Saanvi Uppal,Varanasi,Uttar Pradesh,Regular,Loyal Customers,0.0,5.0,49372.5,406
+C0352,Vihaan Jhaveri,Indore,Madhya Pradesh,New,Loyal Customers,70.0,4.0,49220.0,553
+C0804,Dharmajan Chawla,Mumbai,Maharashtra,Regular,Loyal Customers,56.0,4.0,49158.0,828
+C0768,Kimaya Brar,Tiruchirappalli,Tamil Nadu,Regular,Loyal Customers,35.0,6.0,49032.0,651
+C0678,Kiara Handa,Karimnagar,Telangana,New,Loyal Customers,196.0,5.0,49007.5,1095
+C0420,Lagan Lad,Mysuru,Karnataka,Premium,Loyal Customers,174.0,5.0,48898.5,1090
+C0881,Manjari Ganguly,Karimnagar,Telangana,Regular,Loyal Customers,11.0,4.0,48875.0,435
+C0927,Nishith Subramanian,Mangaluru,Karnataka,Premium,Loyal Customers,436.0,3.0,48598.0,483
+C0554,Rasha Mane,Bhopal,Madhya Pradesh,New,Others,91.0,3.0,48572.0,546
+C0580,Nitya Iyengar,Coimbatore,Tamil Nadu,Regular,Loyal Customers,41.0,4.0,48472.0,946
+C0445,Mehul Tripathi,Nashik,Maharashtra,Regular,Loyal Customers,54.0,4.0,48435.0,960
+C0022,Trisha Bhattacharyya,Mysuru,Karnataka,New,At Risk,360.0,3.0,48391.5,453
+C0988,Nehmat Sundaram,Coimbatore,Tamil Nadu,Premium,Loyal Customers,112.0,4.0,48312.0,440
+C0984,Himmat Chacko,Mangaluru,Karnataka,Premium,At Risk,394.0,2.0,48233.0,400
+C0498,Vedika Comar,Indore,Madhya Pradesh,New,Loyal Customers,118.0,5.0,48163.0,382
+C0486,Dhanush Shenoy,Varanasi,Uttar Pradesh,Regular,At Risk,343.0,3.0,48155.0,438
+C0095,Vedika Bedi,Bhopal,Madhya Pradesh,Regular,Others,128.0,2.0,48135.0,629
+C0660,Elakshi Singhal,Pune,Maharashtra,Regular,Others,120.0,3.0,48108.0,508
+C0546,Saira Talwar,Hubballi,Karnataka,Regular,Loyal Customers,54.0,5.0,47885.0,382
+C0335,Shaan Krishnamurthy,Hubballi,Karnataka,New,Loyal Customers,439.0,4.0,47883.0,1058
+C0234,Nitara Dutta,Belagavi,Karnataka,Regular,At Risk,241.0,3.0,47798.0,883
+C0238,Hridaan Dugar,Gwalior,Madhya Pradesh,New,Loyal Customers,54.0,5.0,47694.0,1079
+C0373,Vedika Vasa,Bhopal,Madhya Pradesh,New,Loyal Customers,214.0,4.0,47581.5,1066
+C0901,Anay Saran,Mumbai,Maharashtra,New,Others,70.0,2.0,47442.0,431
+C0883,Tanya Mahajan,Durgapur,West Bengal,Regular,Loyal Customers,103.0,6.0,47105.5,964
+C0665,Adira D’Alia,Mumbai,Maharashtra,New,Others,5.0,3.0,47029.0,809
+C0821,Ishita Dewan,Salem,Tamil Nadu,Premium,At Risk,182.0,3.0,46819.5,952
+C0962,Kanav Saini,Dwarka,Delhi,Premium,Loyal Customers,292.0,5.0,46604.0,888
+C0135,Pranay Sachdeva,Noida,Uttar Pradesh,Premium,Others,121.0,3.0,46529.0,377
+C0405,Zeeshan Saran,Jodhpur,Rajasthan,Regular,Others,65.0,2.0,46519.0,675
+C0255,Farhan Bava,Ujjain,Madhya Pradesh,New,Others,148.0,1.0,46480.0,878
+C0236,Neysa Basu,Tiruchirappalli,Tamil Nadu,Regular,Lost,356.0,2.0,46479.5,839
+C0547,Ryan Shan,Lucknow,Uttar Pradesh,New,Loyal Customers,16.0,4.0,46443.5,368
+C0152,Dhanuk Taneja,New Delhi,Delhi,Regular,Others,91.0,2.0,46214.5,524
+C0129,Siya Khatri,Salem,Tamil Nadu,Regular,Loyal Customers,89.0,4.0,46127.5,915
+C0501,Armaan Luthra,Udaipur,Rajasthan,Premium,Loyal Customers,20.0,5.0,46079.5,516
+C0772,Sumer Dugal,Durgapur,West Bengal,New,Loyal Customers,296.0,4.0,45997.0,963
+C0507,Faiyaz Bhasin,Nizamabad,Telangana,Regular,Loyal Customers,29.0,5.0,45946.0,702
+C0276,Anvi Kashyap,Lucknow,Uttar Pradesh,New,Loyal Customers,32.0,5.0,45667.5,681
+C0788,Nirvi Borah,Chennai,Tamil Nadu,Regular,Others,1.0,2.0,45663.5,534
+C0877,Divij Chanda,Aurangabad,Maharashtra,New,Loyal Customers,6.0,6.0,45620.0,485
+C0706,Kabir Tank,Ahmedabad,Gujarat,Regular,Others,39.0,2.0,45492.5,780
+C0691,Ivan Chander,Mangaluru,Karnataka,Regular,Others,126.0,3.0,45444.0,833
+C0613,Shanaya Gandhi,Nizamabad,Telangana,Regular,At Risk,365.0,3.0,45301.5,452
+C0965,Trisha Barad,Siliguri,West Bengal,Regular,Loyal Customers,123.0,3.0,45273.5,773
+C0114,Romil Butala,Hubballi,Karnataka,Premium,Loyal Customers,147.0,4.0,45190.0,957
+C0948,Onkar Maharaj,Asansol,West Bengal,Regular,Loyal Customers,31.0,3.0,45090.5,680
+C0792,Neysa Chana,Vadodara,Gujarat,Regular,Lost,354.0,2.0,45030.0,825
+C0340,Shalv Cheema,Rajkot,Gujarat,Premium,Loyal Customers,478.0,5.0,45020.0,748
+C0074,Vritika Subramaniam,Dwarka,Delhi,Premium,Others,67.0,3.0,44769.5,914
+C0482,Divij Shukla,Rohini,Delhi,Regular,Loyal Customers,243.0,6.0,44424.0,775
+C0641,Anaya Jha,Pune,Maharashtra,Regular,Lost,339.0,2.0,44391.0,563
+C0661,Dhruv Swaminathan,Ahmedabad,Gujarat,Regular,Loyal Customers,110.0,5.0,44364.0,704
+C0262,Vidur Joshi,Belagavi,Karnataka,New,Loyal Customers,60.0,4.0,44225.0,875
+C0347,Kabir Arya,Hubballi,Karnataka,Regular,At Risk,368.0,3.0,44217.0,723
+C0611,Kiaan Basak,Ahmedabad,Gujarat,Regular,Lost,270.0,2.0,44068.0,1078
+C0987,Lavanya Zacharia,Ahmedabad,Gujarat,Regular,Loyal Customers,189.0,4.0,43938.0,705
+C0085,Hansh Gupta,Asansol,West Bengal,Premium,Loyal Customers,26.0,4.0,43794.0,1024
+C0894,Ivana Buch,Madurai,Tamil Nadu,New,Lost,505.0,1.0,43774.0,694
+C0394,Rania Zacharia,Nizamabad,Telangana,New,Loyal Customers,276.0,4.0,43703.5,948
+C0228,Tara Kuruvilla,Jabalpur,Madhya Pradesh,New,Loyal Customers,107.0,4.0,43444.0,809
+C0387,Nirvi Kapoor,Mumbai,Maharashtra,Regular,Others,28.0,3.0,43426.0,807
+C0125,Keya Khatri,Mangaluru,Karnataka,Regular,At Risk,132.0,3.0,43193.0,395
+C0770,Kashvi Som,Kolkata,West Bengal,Regular,Lost,321.0,2.0,42908.0,766
+C0147,Divij Loyal,Ahmedabad,Gujarat,Regular,Loyal Customers,42.0,5.0,42902.0,1083
+C0479,Shalv Bains,Nizamabad,Telangana,New,At Risk,223.0,3.0,42877.0,806
+C0540,Charvi Lad,Asansol,West Bengal,New,Loyal Customers,73.0,4.0,42614.0,987
+C0256,Onkar Ramaswamy,New Delhi,Delhi,Premium,Others,175.0,2.0,42610.0,737
+C0468,Vihaan Vora,Madurai,Tamil Nadu,New,Others,51.0,2.0,42589.0,710
+C0241,Chirag Tata,Gandhinagar,Gujarat,Premium,Loyal Customers,15.0,5.0,42428.5,869
+C0647,Ishaan Borra,Chennai,Tamil Nadu,Regular,Others,7.0,3.0,42146.0,927
+C0912,Bhavin Sarraf,Tiruchirappalli,Tamil Nadu,Premium,Loyal Customers,154.0,4.0,42063.0,1055
+C0396,Kaira Seth,Gandhinagar,Gujarat,New,Loyal Customers,149.0,4.0,41938.5,628
+C0827,Samarth Brar,Jabalpur,Madhya Pradesh,Regular,Loyal Customers,189.0,5.0,41732.0,575
+C0514,Rohan Hayer,Mangaluru,Karnataka,New,Loyal Customers,173.0,4.0,41650.5,938
+C0618,Nayantara Bal,Jaipur,Rajasthan,Regular,Lost,458.0,2.0,41635.0,631
+C0852,Divit Comar,Gandhinagar,Gujarat,New,Loyal Customers,20.0,5.0,41490.0,532
+C0843,Advik Devan,Kota,Rajasthan,Premium,At Risk,158.0,3.0,41480.0,669
+C0851,Shanaya Dey,Pune,Maharashtra,Regular,Loyal Customers,6.0,5.0,41455.0,765
+C0301,Vivaan Choudhry,Karimnagar,Telangana,Regular,Others,109.0,3.0,41312.5,437
+C0591,Rhea Doshi,Madurai,Tamil Nadu,Regular,Others,159.0,2.0,41244.0,1000
+C0567,Jivin Kant,Kota,Rajasthan,New,Others,25.0,1.0,41195.0,595
+C0258,Aaina Ramanathan,Khammam,Telangana,Regular,At Risk,533.0,3.0,41147.5,467
+C0757,Vritika Kibe,Warangal,Telangana,Premium,Lost,325.0,2.0,41077.5,399
+C0741,Prisha Chacko,Dwarka,Delhi,New,Loyal Customers,162.0,5.0,40993.0,402
+C0466,Nayantara Rege,Ajmer,Rajasthan,New,Others,30.0,3.0,40960.0,588
+C0556,Shlok Sharma,Nizamabad,Telangana,New,Others,171.0,2.0,40940.0,484
+C0264,Aarush Gandhi,Ujjain,Madhya Pradesh,Premium,Lost,608.0,1.0,40902.0,1009
+C0898,Gokul Trivedi,Vadodara,Gujarat,New,Loyal Customers,117.0,3.0,40900.0,1054
+C0017,Bhavin Bakshi,Udaipur,Rajasthan,New,Others,22.0,3.0,40884.0,1028
+C0057,Nirvaan Kari,Kanpur,Uttar Pradesh,Regular,Loyal Customers,238.0,5.0,40797.5,410
+C0483,Riaan Kaur,Chennai,Tamil Nadu,Regular,Loyal Customers,461.0,4.0,40795.0,828
+C0769,Onkar Mand,Kota,Rajasthan,New,At Risk,227.0,3.0,40696.5,703
+C0642,Kaira Krishna,Ahmedabad,Gujarat,New,Loyal Customers,43.0,5.0,40683.5,501
+C0617,Hunar Kala,Varanasi,Uttar Pradesh,New,At Risk,165.0,3.0,40671.0,851
+C0666,Adira Ahluwalia,Saket,Delhi,Regular,Lost,575.0,1.0,40670.0,840
+C0931,Elakshi Bumb,Ajmer,Rajasthan,New,Loyal Customers,48.0,3.0,40657.0,836
+C0194,Ivan Grewal,Siliguri,West Bengal,New,At Risk,147.0,3.0,40585.0,386
+C0775,Kaira Tata,Madurai,Tamil Nadu,New,At Risk,157.0,3.0,40485.0,594
+C0475,Saksham Shan,Mysuru,Karnataka,Regular,Loyal Customers,296.0,4.0,40482.0,494
+C0473,Oorja Goyal,Kolkata,West Bengal,Regular,Loyal Customers,566.0,4.0,40362.0,547
+C0484,Azad Kunda,Kanpur,Uttar Pradesh,New,Loyal Customers,55.0,5.0,40355.0,895
+C0052,Adah Shah,Aurangabad,Maharashtra,Regular,At Risk,244.0,3.0,40228.0,607
+C0247,Badal Bedi,Bengaluru,Karnataka,Regular,Loyal Customers,51.0,6.0,40135.0,425
+C0180,Ivan Randhawa,Ahmedabad,Gujarat,Premium,Loyal Customers,67.0,5.0,40129.0,432
+C0612,Emir Kanda,Kanpur,Uttar Pradesh,Premium,Others,23.0,3.0,40123.0,1055
+C0467,Kimaya Sankar,Ajmer,Rajasthan,Regular,Lost,413.0,2.0,40100.0,769
+C0713,Emir Sarkar,Karimnagar,Telangana,Premium,Others,9.0,3.0,40088.0,509
+C0038,Nakul Bhatnagar,Bengaluru,Karnataka,New,Loyal Customers,231.0,7.0,40043.0,861
+C0869,Mamooty Kannan,Kolkata,West Bengal,Regular,Loyal Customers,7.0,3.0,39972.0,697
+C0320,Myra Kalla,Mangaluru,Karnataka,New,Loyal Customers,103.0,4.0,39938.5,946
+C0861,Nirvaan Master,Ahmedabad,Gujarat,Premium,Lost,648.0,1.0,39910.5,792
+C0332,Divit Bahl,New Delhi,Delhi,Regular,Loyal Customers,210.0,4.0,39854.5,500
+C0028,Nitya Jayaraman,Noida,Uttar Pradesh,New,Loyal Customers,0.0,4.0,39735.5,472
+C0534,Aaina Gala,Kota,Rajasthan,Regular,Lost,412.0,2.0,39680.0,953
+C0860,Rati Kalita,Nizamabad,Telangana,Premium,Loyal Customers,40.0,4.0,39530.0,569
+C0103,Siya Anand,Ahmedabad,Gujarat,New,Loyal Customers,23.0,6.0,39484.5,365
+C0929,Samarth Anand,Ujjain,Madhya Pradesh,Regular,Loyal Customers,165.0,3.0,39468.0,975
+C0921,Mahika Dhillon,Bhopal,Madhya Pradesh,Regular,Loyal Customers,4.0,4.0,39439.0,914
+C0978,Lakshay Chopra,Ahmedabad,Gujarat,Regular,Loyal Customers,298.0,3.0,39357.5,915
+C0089,Pihu Wadhwa,Tiruchirappalli,Tamil Nadu,New,Others,127.0,3.0,39301.5,513
+C0508,Badal Warrior,Belagavi,Karnataka,New,Loyal Customers,240.0,6.0,39129.5,741
+C0481,Sara Swaminathan,Ahmedabad,Gujarat,Regular,Others,1.0,3.0,38900.0,615
+C0880,Aniruddh Rastogi,New Delhi,Delhi,Regular,Loyal Customers,21.0,5.0,38862.0,910
+C0488,Adira Upadhyay,Tiruchirappalli,Tamil Nadu,Premium,Loyal Customers,48.0,5.0,38713.0,438
+C0793,Shray Sankar,Chennai,Tamil Nadu,New,Others,217.0,1.0,38500.0,798
+C0692,Keya Acharya,Nashik,Maharashtra,Regular,Lost,393.0,2.0,38480.0,647
+C0299,Jivin Shenoy,Durgapur,West Bengal,Regular,Lost,408.0,1.0,38476.0,424
+C0623,Yashvi Saran,Hyderabad,Telangana,Regular,At Risk,340.0,3.0,38360.5,826
+C0040,Nitara Goyal,Saket,Delhi,Regular,At Risk,291.0,3.0,38214.0,960
+C0780,Amira Baria,Bengaluru,Karnataka,Regular,Loyal Customers,163.0,4.0,38154.0,1046
+C0590,Shayak Kakar,Jodhpur,Rajasthan,Premium,Loyal Customers,73.0,4.0,38148.0,390
+C0743,Kiara Rajagopalan,Tiruchirappalli,Tamil Nadu,New,Others,54.0,3.0,37957.0,1087
+C0913,Anika Taneja,Pune,Maharashtra,Premium,Loyal Customers,54.0,3.0,37912.0,831
+C0871,Rania Bhavsar,Siliguri,West Bengal,New,Lost,546.0,2.0,37498.0,987
+C0134,Dhruv Iyer,Surat,Gujarat,Regular,Loyal Customers,51.0,6.0,37492.0,732
+C0655,Ojas Ravi,Chennai,Tamil Nadu,New,Loyal Customers,138.0,5.0,37257.5,1083
+C0985,Navya Raman,Ujjain,Madhya Pradesh,Regular,Loyal Customers,330.0,4.0,37198.0,430
+C0583,Charvi Sunder,Ajmer,Rajasthan,Regular,Loyal Customers,24.0,7.0,37129.0,811
+C0375,Anya Handa,Gandhinagar,Gujarat,Regular,Others,102.0,3.0,37049.5,799
+C0223,Jayant Chacko,Indore,Madhya Pradesh,New,Loyal Customers,1.0,5.0,36969.0,432
+C0359,Rasha Cheema,Kanpur,Uttar Pradesh,Regular,Others,54.0,2.0,36952.0,367
+C0586,Shlok Shanker,Janakpuri,Delhi,Regular,Loyal Customers,86.0,5.0,36941.5,879
+C0740,Kashvi Kota,Jaipur,Rajasthan,Premium,Loyal Customers,189.0,4.0,36879.0,929
+C0679,Neelofar Anand,Madurai,Tamil Nadu,Premium,Loyal Customers,45.0,5.0,36868.0,914
+C0307,Urvi Shan,Indore,Madhya Pradesh,New,Loyal Customers,236.0,4.0,36846.0,484
+C0232,Riya Savant,Ahmedabad,Gujarat,New,Others,97.0,2.0,36742.0,417
+C0711,Keya Ranganathan,Mangaluru,Karnataka,Regular,Others,243.0,2.0,36495.0,541
+C0221,Advika Kaul,Jabalpur,Madhya Pradesh,Premium,Others,76.0,3.0,36489.0,442
+C0933,Nayantara Upadhyay,Janakpuri,Delhi,Regular,Loyal Customers,26.0,10.0,36442.0,530
+C0544,Fateh Banik,Bengaluru,Karnataka,New,Loyal Customers,136.0,4.0,36323.0,950
+C0165,Saksham Chakrabarti,Bhopal,Madhya Pradesh,Regular,Others,48.0,3.0,36256.0,653
+C0754,Aradhya Seth,Howrah,West Bengal,Regular,Lost,626.0,1.0,36204.0,393
+C0361,Sara Vala,Coimbatore,Tamil Nadu,New,Loyal Customers,175.0,5.0,36098.0,590
+C0928,Alia Rattan,Kanpur,Uttar Pradesh,Regular,Others,50.0,1.0,35944.0,1090
+C0119,Kanav Singh,Pune,Maharashtra,Premium,Loyal Customers,160.0,6.0,35875.0,891
+C0072,Amani Bath,Howrah,West Bengal,New,Others,110.0,3.0,35830.0,397
+C0272,Aayush Malhotra,Jodhpur,Rajasthan,New,Others,72.0,3.0,35806.5,963
+C0155,Rohan Sani,Bhopal,Madhya Pradesh,Regular,Others,188.0,2.0,35608.0,883
+C0476,Renee Kaur,Surat,Gujarat,New,Others,89.0,3.0,35571.0,755
+C0845,Yuvaan Rattan,Jabalpur,Madhya Pradesh,Premium,Others,140.0,1.0,35160.5,865
+C0947,Kismat Garde,Pune,Maharashtra,Premium,Loyal Customers,310.0,3.0,35141.5,1007
+C0131,Samarth Dhar,Howrah,West Bengal,New,At Risk,177.0,3.0,35139.0,1007
+C0343,Shamik Konda,Nizamabad,Telangana,New,Loyal Customers,391.0,4.0,35072.5,767
+C0001,Anay Shanker,Nagpur,Maharashtra,New,Others,56.0,3.0,34750.5,845
+C0953,Vaibhav Bahl,Kolkata,West Bengal,Premium,Loyal Customers,322.0,3.0,34709.5,570
+C0645,Priyansh Basak,Udaipur,Rajasthan,Regular,Loyal Customers,4.0,5.0,34666.0,770
+C0521,Kismat Gola,Ujjain,Madhya Pradesh,Regular,Lost,351.0,2.0,34447.0,922
+C0808,Pihu Bawa,Tiruchirappalli,Tamil Nadu,New,At Risk,436.0,3.0,34335.0,468
+C0940,Divit Bala,Salem,Tamil Nadu,Regular,Loyal Customers,130.0,3.0,34234.0,481
+C0656,Aaryahi Garg,Coimbatore,Tamil Nadu,New,Lost,438.0,1.0,34140.0,685
+C0030,Mamooty Swaminathan,Ahmedabad,Gujarat,Premium,At Risk,384.0,3.0,34062.0,981
+C0110,Jhanvi Bhargava,Khammam,Telangana,Premium,Others,117.0,3.0,34045.0,478
+C0093,Shamik Baria,Mysuru,Karnataka,New,Others,9.0,3.0,33851.0,407
+C0370,Purab Bobal,Mangaluru,Karnataka,Regular,Others,192.0,2.0,33734.0,894
+C0592,Parinaaz Srivastava,Mangaluru,Karnataka,Premium,Lost,411.0,1.0,33600.0,415
+C0380,Inaaya  Cherian,Khammam,Telangana,New,At Risk,323.0,3.0,33572.5,987
+C0283,Zoya Gandhi,Dwarka,Delhi,New,Lost,513.0,2.0,33465.0,479
+C0447,Lavanya Sane,Nashik,Maharashtra,Premium,Others,100.0,3.0,33357.0,835
+C0875,Mannat Balay,Madurai,Tamil Nadu,Premium,Loyal Customers,82.0,4.0,33317.0,402
+C0990,Arnav Vig,Mysuru,Karnataka,New,Loyal Customers,60.0,3.0,33289.5,744
+C0635,Stuvan Vora,Vadodara,Gujarat,Premium,Lost,290.0,2.0,33165.0,490
+C0836,Kaira Kaur,Nizamabad,Telangana,Premium,Loyal Customers,102.0,4.0,33106.0,663
+C0278,Neysa Soman,Hubballi,Karnataka,New,Others,255.0,2.0,33027.5,987
+C0098,Raunak Barman,Aurangabad,Maharashtra,Premium,Others,9.0,3.0,33018.0,840
+C0747,Amani Divan,Khammam,Telangana,New,At Risk,323.0,3.0,32886.5,472
+C0443,Piya Trivedi,Ujjain,Madhya Pradesh,New,At Risk,397.0,3.0,32714.0,942
+C0124,Anika Tandon,Belagavi,Karnataka,Premium,Loyal Customers,30.0,5.0,32685.0,388
+C0253,Dhruv Varty,Hubballi,Karnataka,Premium,Others,46.0,2.0,32640.0,733
+C0392,Eshani Ben,Nizamabad,Telangana,Regular,Lost,369.0,2.0,32620.0,457
+C0625,Jayan Choudhury,Indore,Madhya Pradesh,New,At Risk,336.0,3.0,32417.5,719
+C0184,Vedika Garg,Mangaluru,Karnataka,New,At Risk,430.0,3.0,32386.0,671
+C0918,Shaan Sunder,Madurai,Tamil Nadu,Regular,At Risk,476.0,2.0,32358.5,631
+C0841,Ishaan Shukla,Ujjain,Madhya Pradesh,Regular,Loyal Customers,447.0,4.0,32308.5,866
+C0086,Rhea Reddy,Gwalior,Madhya Pradesh,Premium,Loyal Customers,45.0,4.0,32293.5,416
+C0041,Mannat Swamy,Janakpuri,Delhi,New,Others,76.0,3.0,32226.0,679
+C0005,Mahika Ravi,Janakpuri,Delhi,New,Others,235.0,2.0,32194.5,492
+C0561,Misha Chawla,Tiruchirappalli,Tamil Nadu,Regular,At Risk,149.0,3.0,32190.0,698
+C0181,Drishya Yogi,Noida,Uttar Pradesh,New,At Risk,163.0,3.0,32142.0,373
+C0651,Advika Goswami,Rohini,Delhi,New,Others,179.0,2.0,32082.0,944
+C0111,Nitya Ghose,Rohini,Delhi,Regular,Loyal Customers,15.0,5.0,32053.0,649
+C0781,Zain Chowdhury,Rajkot,Gujarat,Regular,At Risk,288.0,3.0,31626.0,969
+C0270,Vidur Samra,Pune,Maharashtra,Premium,Others,82.0,3.0,31577.5,787
+C0884,Samarth Mand,Mangaluru,Karnataka,New,At Risk,539.0,2.0,31518.0,461
+C0963,Drishya Bansal,Chennai,Tamil Nadu,Premium,Others,55.0,2.0,31424.0,973
+C0226,Hridaan Ranganathan,Kota,Rajasthan,Regular,Loyal Customers,336.0,4.0,31316.0,716
+C0271,Raunak Singhal,Agra,Uttar Pradesh,New,Others,49.0,3.0,31300.0,760
+C0632,Nirvaan Bala,Jaipur,Rajasthan,Premium,Loyal Customers,161.0,4.0,31110.0,619
+C0496,Ivan Rau,Ujjain,Madhya Pradesh,Premium,At Risk,562.0,3.0,31078.5,837
+C0796,Badal Walia,Asansol,West Bengal,New,At Risk,201.0,3.0,31016.0,459
+C0790,Trisha Gade,Belagavi,Karnataka,Regular,Loyal Customers,30.0,4.0,30935.0,410
+C0598,Azad Lad,Bengaluru,Karnataka,New,Lost,273.0,2.0,30900.5,990
+C0316,Indrajit Bakshi,Varanasi,Uttar Pradesh,New,Lost,295.0,2.0,30840.5,570
+C0976,Alia Chhabra,Indore,Madhya Pradesh,Regular,Loyal Customers,30.0,4.0,30786.0,993
+C0090,Alisha Bahl,Agra,Uttar Pradesh,Regular,At Risk,240.0,3.0,30771.5,880
+C0649,Hridaan Sinha,Vadodara,Gujarat,New,Loyal Customers,337.0,4.0,30647.5,621
+C0942,Akarsh Sarna,Kota,Rajasthan,Regular,At Risk,562.0,2.0,30562.0,467
+C0531,Sumer Kade,Udaipur,Rajasthan,New,Others,193.0,2.0,30515.0,693
+C0106,Rania Kothari,Hubballi,Karnataka,New,Loyal Customers,228.0,4.0,30490.0,678
+C0240,Samarth Shukla,Rajkot,Gujarat,Regular,Loyal Customers,109.0,4.0,30469.5,725
+C0905,Himmat Wable,Karimnagar,Telangana,Premium,Loyal Customers,36.0,3.0,30449.5,734
+C0549,Navya Wason,Siliguri,West Bengal,Premium,At Risk,185.0,3.0,30169.0,659
+C0006,Priyansh Bali,Salem,Tamil Nadu,New,At Risk,162.0,3.0,30077.0,747
+C0246,Aarav Ahuja,Ajmer,Rajasthan,New,Loyal Customers,71.0,4.0,29931.0,552
+C0076,Devansh Yogi,Kanpur,Uttar Pradesh,New,At Risk,145.0,3.0,29746.5,377
+C0175,Umang Saran,Jaipur,Rajasthan,Regular,At Risk,150.0,3.0,29315.0,903
+C0599,Armaan Chandra,Salem,Tamil Nadu,Regular,Loyal Customers,284.0,5.0,29308.5,959
+C0448,Zoya Vasa,Bhopal,Madhya Pradesh,Regular,Others,96.0,3.0,29075.0,1049
+C0083,Nitara Kala,Ajmer,Rajasthan,New,Others,117.0,3.0,28832.0,572
+C0801,Aarush Jani,Jabalpur,Madhya Pradesh,Regular,Others,117.0,2.0,28811.0,910
+C0824,Mohanlal Chakrabarti,Kolkata,West Bengal,New,Loyal Customers,88.0,5.0,28783.5,671
+C0648,Shayak Dhillon,Jaipur,Rajasthan,New,Lost,293.0,2.0,28632.0,547
+C0979,Vidur Mangal,Khammam,Telangana,Regular,Loyal Customers,151.0,3.0,28618.5,772
+C0063,Miraya Sanghvi,Nizamabad,Telangana,New,Loyal Customers,88.0,4.0,28527.5,416
+C0761,Tushar Khare,Surat,Gujarat,New,Loyal Customers,127.0,4.0,28447.5,583
+C0797,Myra Badami,Durgapur,West Bengal,New,Others,72.0,2.0,28443.0,908
+C0039,Sahil Mani,Kolkata,West Bengal,New,Loyal Customers,78.0,4.0,28431.0,569
+C0101,Chirag Bhakta,Salem,Tamil Nadu,New,Loyal Customers,135.0,4.0,28169.0,635
+C0621,Dhanuk Mahajan,Madurai,Tamil Nadu,Regular,At Risk,150.0,3.0,28124.0,966
+C0707,Anika Khatri,Vadodara,Gujarat,Regular,Others,74.0,3.0,28008.0,1002
+C0526,Sara Chowdhury,Madurai,Tamil Nadu,Premium,Loyal Customers,80.0,4.0,27914.5,1089
+C0398,Bhavin Raval,Gwalior,Madhya Pradesh,Premium,Lost,721.0,1.0,27867.5,576
+C0428,Umang Ahuja,Tiruchirappalli,Tamil Nadu,New,Others,22.0,2.0,27601.0,616
+C0601,Aaina Tara,Vadodara,Gujarat,Regular,Others,265.0,2.0,27470.0,877
+C0777,Pari Vala,New Delhi,Delhi,Regular,At Risk,404.0,3.0,27350.0,492
+C0360,Hansh Rana,Siliguri,West Bengal,New,Loyal Customers,4.0,4.0,27105.5,866
+C0026,Farhan Vyas,Mangaluru,Karnataka,New,Others,122.0,3.0,26880.0,650
+C0675,Zoya Edwin,Ujjain,Madhya Pradesh,Regular,At Risk,184.0,3.0,26653.5,950
+C0773,Jayesh Arora,Chennai,Tamil Nadu,New,Others,108.0,3.0,26508.0,1049
+C0671,Farhan Yogi,Chennai,Tamil Nadu,Regular,At Risk,175.0,3.0,26489.5,842
+C0390,Parinaaz Dugar,Nashik,Maharashtra,Regular,Others,25.0,3.0,26438.5,1043
+C0068,Tanya Chowdhury,Madurai,Tamil Nadu,Regular,At Risk,186.0,3.0,26259.0,930
+C0249,Indranil Ben,Kota,Rajasthan,New,Others,50.0,3.0,26229.5,998
+C0893,Nayantara Bala,Indore,Madhya Pradesh,Regular,Lost,279.0,1.0,26144.0,1058
+C0778,Jayant Kapadia,Kolkata,West Bengal,Premium,Others,201.0,2.0,26057.5,711
+C0571,Devansh Ganesan,Nizamabad,Telangana,Premium,Loyal Customers,29.0,4.0,26008.0,540
+C0575,Khushi Dube,Saket,Delhi,New,Others,119.0,2.0,25742.0,390
+C0595,Veer Khurana,Ahmedabad,Gujarat,Regular,Loyal Customers,56.0,4.0,25543.0,960
+C0016,Vardaniya Srinivasan,Kolkata,West Bengal,Premium,Loyal Customers,73.0,4.0,25491.0,861
+C0099,Miraan Hans,Surat,Gujarat,Regular,Lost,416.0,1.0,25480.0,620
+C0924,Ayesha Manda,Karimnagar,Telangana,Premium,Loyal Customers,240.0,4.0,25455.5,716
+C0530,Shayak Sachdev,Varanasi,Uttar Pradesh,Regular,Loyal Customers,68.0,4.0,25372.5,506
+C0683,Nitara Konda,Coimbatore,Tamil Nadu,Regular,At Risk,145.0,3.0,25338.0,648
+C0115,Damini Rege,Nagpur,Maharashtra,New,Lost,339.0,1.0,25196.5,707
+C0517,Arnav Acharya,Chennai,Tamil Nadu,Regular,Loyal Customers,357.0,4.0,25146.0,904
+C0523,Jayan Majumdar,Mysuru,Karnataka,New,Lost,434.0,2.0,25065.0,650
+C0250,Zain Kannan,Agra,Uttar Pradesh,Regular,Lost,514.0,1.0,25065.0,939
+C0957,Shlok Verma,Rohini,Delhi,Premium,Loyal Customers,100.0,3.0,24882.5,673
+C0759,Romil Devan,Udaipur,Rajasthan,New,Others,63.0,3.0,24720.0,715
+C0504,Ehsaan Gade,Khammam,Telangana,New,At Risk,289.0,3.0,24682.0,422
+C0791,Shlok Krishna,Hyderabad,Telangana,Premium,Loyal Customers,52.0,5.0,24674.5,992
+C0434,Tarini Batta,Nagpur,Maharashtra,New,Loyal Customers,57.0,4.0,24672.0,703
+C0923,Myra Yohannan,Ujjain,Madhya Pradesh,Premium,Loyal Customers,61.0,4.0,24625.5,1094
+C0174,Stuvan Goda,Hyderabad,Telangana,Premium,Lost,569.0,2.0,24614.5,422
+C0454,Ivan Rana,Warangal,Telangana,Premium,At Risk,541.0,3.0,24588.0,867
+C0608,Pari Wadhwa,Rajkot,Gujarat,New,Loyal Customers,162.0,4.0,24576.0,980
+C0593,Indrajit Ratti,Nashik,Maharashtra,New,Lost,269.0,1.0,24570.5,455
+C0839,Darshit Gade,Chennai,Tamil Nadu,Regular,Others,31.0,3.0,24523.5,388
+C0686,Hunar Kashyap,Coimbatore,Tamil Nadu,Premium,Others,66.0,3.0,24468.5,1094
+C0145,Nayantara Sampath,Lucknow,Uttar Pradesh,Regular,Lost,318.0,2.0,24364.5,370
+C0524,Elakshi Sethi,Ahmedabad,Gujarat,New,Others,253.0,1.0,24129.0,726
+C0010,Ayesha Andra,Gwalior,Madhya Pradesh,New,Others,11.0,3.0,24119.5,504
+C0025,Ryan Tara,Belagavi,Karnataka,Regular,Loyal Customers,24.0,6.0,24092.0,822
+C0764,Rati Barad,Madurai,Tamil Nadu,Regular,Lost,360.0,2.0,24020.0,911
+C0354,Jayesh Sodhi,Gandhinagar,Gujarat,Premium,Lost,645.0,2.0,23932.0,699
+C0946,Pari Madan,Indore,Madhya Pradesh,New,Loyal Customers,32.0,4.0,23910.5,405
+C0233,Jhanvi Sabharwal,Nagpur,Maharashtra,Premium,Lost,493.0,1.0,23724.0,846
+C0492,Dishani Choudhary,Ahmedabad,Gujarat,Regular,Loyal Customers,45.0,4.0,23573.0,1089
+C0248,Misha Desai,Kota,Rajasthan,Regular,Others,1.0,3.0,23370.0,862
+C0061,Mishti Sekhon,Kolkata,West Bengal,New,Loyal Customers,94.0,4.0,23298.5,845
+C0339,Krish Sani,Lucknow,Uttar Pradesh,Regular,Lost,663.0,2.0,23240.0,719
+C0726,Akarsh Krish,Nashik,Maharashtra,Regular,Others,123.0,1.0,23228.0,756
+C0904,Indrajit Bumb,Nizamabad,Telangana,Premium,Loyal Customers,95.0,4.0,23070.0,710
+C0059,Shanaya Khalsa,Vadodara,Gujarat,New,At Risk,429.0,3.0,23062.5,1021
+C0142,Shray Brahmbhatt,Mysuru,Karnataka,New,Others,191.0,2.0,23040.0,772
+C0346,Darshit Mallick,Jabalpur,Madhya Pradesh,Regular,Others,39.0,3.0,23038.5,814
+C0727,Azad Choudhury,Vadodara,Gujarat,New,Others,106.0,3.0,22963.0,714
+C0436,Zeeshan Karpe,Agra,Uttar Pradesh,New,Others,28.0,3.0,22876.0,386
+C0450,Dishani Bala,Nagpur,Maharashtra,New,Others,99.0,2.0,22865.0,677
+C0402,Kiara Balay,Aurangabad,Maharashtra,New,Loyal Customers,328.0,4.0,22857.0,604
+C0413,Zeeshan Bains,Lucknow,Uttar Pradesh,Regular,Others,128.0,2.0,22825.0,508
+C0356,Nirvaan Wadhwa,Surat,Gujarat,New,At Risk,268.0,3.0,22790.5,970
+C0999,Tushar Bhargava,Coimbatore,Tamil Nadu,Premium,At Risk,467.0,2.0,22596.0,556
+C0910,Ayesha Dhaliwal,Rajkot,Gujarat,Regular,Loyal Customers,278.0,3.0,22566.0,880
+C0416,Vedika Sani,Dwarka,Delhi,New,Others,13.0,3.0,22526.0,544
+C0023,Adah Bhatt,Bhopal,Madhya Pradesh,New,Others,82.0,3.0,22460.0,701
+C0667,Kartik Loyal,Udaipur,Rajasthan,Regular,Others,129.0,1.0,22260.0,604
+C0876,Kaira Sarma,Aurangabad,Maharashtra,New,Loyal Customers,316.0,3.0,22212.5,527
+C0489,Keya Dara,Bengaluru,Karnataka,Regular,Others,170.0,2.0,22203.0,1089
+C0080,Nirvi Khosla,Siliguri,West Bengal,Regular,Loyal Customers,118.0,4.0,22153.0,686
+C0622,Mohanlal Sekhon,Bengaluru,Karnataka,Premium,Others,114.0,3.0,22085.5,752
+C0966,Heer Ramakrishnan,Surat,Gujarat,New,At Risk,384.0,2.0,22076.0,572
+C0288,Azad Sarkar,Varanasi,Uttar Pradesh,New,Lost,330.0,1.0,21945.0,633
+C0689,Armaan Mani,Rohini,Delhi,New,Loyal Customers,161.0,4.0,21818.5,768
+C0458,Chirag Ravel,Nashik,Maharashtra,Regular,Loyal Customers,150.0,4.0,21757.0,466
+C0939,Yashvi Sama,Salem,Tamil Nadu,New,Others,90.0,2.0,21686.5,444
+C0610,Bhavin Gokhale,Ajmer,Rajasthan,New,Lost,274.0,1.0,21470.0,665
+C0703,Purab Thakkar,Chennai,Tamil Nadu,New,Others,154.0,1.0,21360.0,726
+C0319,Vidur Sangha,Jaipur,Rajasthan,New,Loyal Customers,367.0,4.0,21290.5,712
+C0117,Advika Johal,Lucknow,Uttar Pradesh,New,Loyal Customers,28.0,6.0,21255.0,614
+C0553,Reyansh Roy,Rohini,Delhi,Premium,At Risk,247.0,3.0,21232.5,375
+C0889,Mishti Saraf,Rajkot,Gujarat,New,Loyal Customers,7.0,4.0,21229.0,639
+C0616,Anika Sastry,Tiruchirappalli,Tamil Nadu,New,Loyal Customers,28.0,4.0,21225.5,761
+C0045,Kartik Chokshi,Jodhpur,Rajasthan,Regular,Others,128.0,3.0,21155.0,810
+C0892,Ahana  Raju,Bengaluru,Karnataka,Regular,Loyal Customers,193.0,3.0,21046.0,576
+C0368,Shamik Kaur,Belagavi,Karnataka,New,At Risk,209.0,3.0,21009.0,939
+C0916,Sana Balan,Surat,Gujarat,Premium,Loyal Customers,18.0,3.0,21004.0,871
+C0009,Damini Singh,Hyderabad,Telangana,New,Loyal Customers,387.0,4.0,20872.5,708
+C0958,Yashvi Sarkar,Kanpur,Uttar Pradesh,New,Others,46.0,1.0,20865.0,801
+C0578,Uthkarsh Bhatia,Durgapur,West Bengal,Regular,Others,57.0,2.0,20846.5,799
+C0220,Ryan Srinivasan,Noida,Uttar Pradesh,Regular,Others,96.0,2.0,20755.0,969
+C0565,Hiran Grover,Nashik,Maharashtra,New,Others,12.0,3.0,20677.5,956
+C0977,Adira Subramanian,Karimnagar,Telangana,New,At Risk,231.0,2.0,20558.0,705
+C0937,Zaina Bera,Mysuru,Karnataka,Regular,Loyal Customers,75.0,4.0,20519.0,575
+C0835,Arhaan Krishnan,Mangaluru,Karnataka,Regular,Loyal Customers,235.0,5.0,20515.0,520
+C0353,Dharmajan Lala,Kanpur,Uttar Pradesh,New,Lost,470.0,2.0,20480.0,979
+C0453,Akarsh Sarin,Kolkata,West Bengal,Premium,Others,17.0,1.0,20475.5,913
+C0930,Manjari Toor,Rohini,Delhi,New,Loyal Customers,2.0,3.0,20267.0,677
+C0629,Samiha Chana,Karimnagar,Telangana,New,Others,72.0,3.0,19981.5,866
+C0755,Hansh Ramakrishnan,Siliguri,West Bengal,Premium,Others,13.0,3.0,19845.5,788
+C0725,Ranbir Baral,Pune,Maharashtra,Regular,At Risk,193.0,3.0,19784.0,813
+C0024,Zain Arora,Nizamabad,Telangana,Premium,Others,51.0,3.0,19717.0,529
+C0401,Devansh Badami,Jabalpur,Madhya Pradesh,Premium,Lost,341.0,2.0,19584.0,824
+C0422,Jayan Subramanian,Durgapur,West Bengal,New,Others,246.0,2.0,19469.5,434
+C0018,Kavya Rajan,Janakpuri,Delhi,Premium,Others,100.0,1.0,19350.0,690
+C0996,Nitya Sanghvi,Hyderabad,Telangana,Regular,Loyal Customers,261.0,4.0,19270.5,1069
+C0859,Faiyaz Rattan,Udaipur,Rajasthan,Regular,Loyal Customers,182.0,3.0,19263.0,542
+C0404,Nirvaan Mannan,New Delhi,Delhi,New,At Risk,184.0,3.0,19182.0,644
+C0192,Dharmajan Dubey,Belagavi,Karnataka,New,At Risk,475.0,3.0,19079.5,628
+C0643,Shanaya Mammen,Jaipur,Rajasthan,Regular,Others,44.0,3.0,19066.0,489
+C0104,Mohanlal Chand,Durgapur,West Bengal,New,At Risk,155.0,3.0,19032.0,542
+C0260,Pari Shenoy,Durgapur,West Bengal,New,Others,116.0,2.0,18972.0,1089
+C0870,Ela Mannan,Bhopal,Madhya Pradesh,New,Others,198.0,2.0,18962.0,496
+C0300,Dhanush Sandhu,Tiruchirappalli,Tamil Nadu,Premium,At Risk,202.0,3.0,18896.5,370
+C0291,Jayesh Goyal,Gandhinagar,Gujarat,New,Loyal Customers,65.0,5.0,18854.5,428
+C0318,Ojas Taneja,Jaipur,Rajasthan,Regular,Loyal Customers,167.0,4.0,18826.5,690
+C0170,Samiha Bobal,Hubballi,Karnataka,Regular,Lost,600.0,1.0,18738.0,739
+C0672,Shanaya Tailor,Hyderabad,Telangana,Regular,At Risk,242.0,3.0,18709.0,871
+C0690,Vedika Chaudry,Asansol,West Bengal,New,Others,221.0,2.0,18663.5,1084
+C0014,Yuvaan Seth,Belagavi,Karnataka,New,Others,30.0,2.0,18533.5,445
+C0848,Nirvi Barman,Coimbatore,Tamil Nadu,New,Others,41.0,3.0,18519.0,569
+C0189,Nishith Malhotra,Nagpur,Maharashtra,Regular,Others,50.0,3.0,18506.5,611
+C0763,Aarush Desai,Coimbatore,Tamil Nadu,Regular,Loyal Customers,40.0,4.0,18254.0,745
+C0162,Veer Ahuja,Noida,Uttar Pradesh,Premium,Lost,700.0,1.0,18230.0,513
+C0456,Nitara Madan,Karimnagar,Telangana,New,At Risk,286.0,3.0,18224.0,860
+C0414,Rania Setty,Udaipur,Rajasthan,New,Others,90.0,2.0,18206.0,946
+C0037,Ranbir Shetty,Ujjain,Madhya Pradesh,Regular,Others,222.0,1.0,18144.5,860
+C0854,Rania Lanka,Ajmer,Rajasthan,Regular,Others,258.0,2.0,18120.0,546
+C0384,Mohanlal Shanker,Dwarka,Delhi,Premium,Lost,479.0,1.0,17955.0,585
+C0313,Indrans Doshi,Coimbatore,Tamil Nadu,New,Others,164.0,2.0,17802.0,476
+C0261,Prisha Srinivasan,Jabalpur,Madhya Pradesh,New,Others,167.0,2.0,17709.0,1024
+C0094,Neelofar Sampath,Chennai,Tamil Nadu,New,Loyal Customers,67.0,4.0,17677.0,1048
+C0035,Aaina Luthra,Udaipur,Rajasthan,Premium,Loyal Customers,196.0,5.0,17602.0,647
+C0882,Arnav Gola,Mangaluru,Karnataka,New,Loyal Customers,101.0,3.0,17585.5,995
+C0019,Oorja Roy,Madurai,Tamil Nadu,New,Lost,437.0,1.0,17430.0,953
+C0585,Nayantara Garg,Vadodara,Gujarat,Regular,Lost,458.0,2.0,17326.5,1031
+C0431,Rohan Reddy,Tiruchirappalli,Tamil Nadu,Premium,Others,188.0,1.0,17198.0,441
+C0042,Shayak Atwal,Udaipur,Rajasthan,Regular,Others,61.0,3.0,16922.5,662
+C0605,Parinaaz Ramanathan,Lucknow,Uttar Pradesh,Regular,Lost,307.0,2.0,16860.0,841
+C0785,Ishaan Kaur,Khammam,Telangana,New,Others,65.0,3.0,16860.0,975
+C0885,Nayantara Dugar,Asansol,West Bengal,New,At Risk,186.0,2.0,16804.0,634
+C0487,Miraya Talwar,Madurai,Tamil Nadu,New,Others,18.0,3.0,16532.0,922
+C0646,Suhana Hayre,Mysuru,Karnataka,Regular,Lost,423.0,2.0,16442.5,956
+C0021,Purab Dhaliwal,Tiruchirappalli,Tamil Nadu,New,Others,179.0,2.0,16365.0,590
+C0108,Tejas Kunda,Bhopal,Madhya Pradesh,New,Lost,475.0,2.0,16287.5,506
+C0322,Zara Walla,Bengaluru,Karnataka,New,Lost,354.0,1.0,16260.0,833
+C0478,Parinaaz Batta,Saket,Delhi,New,Others,54.0,3.0,16120.0,375
+C0412,Elakshi Konda,Vadodara,Gujarat,Premium,Loyal Customers,184.0,5.0,16050.0,522
+C0379,Ira Bala,Durgapur,West Bengal,New,Others,186.0,2.0,15957.0,687
+C0602,Shalv Reddy,Ajmer,Rajasthan,Regular,Loyal Customers,112.0,4.0,15915.5,392
+C0858,Trisha Ratti,Nagpur,Maharashtra,Premium,Loyal Customers,33.0,3.0,15911.0,705
+C0058,Indrajit Kapoor,Varanasi,Uttar Pradesh,Regular,Others,4.0,3.0,15792.0,961
+C0415,Anahi Som,Mangaluru,Karnataka,Regular,At Risk,316.0,3.0,15768.0,643
+C0440,Dishani Mane,Ajmer,Rajasthan,Regular,Others,252.0,2.0,15762.5,613
+C0749,Hiran Raj,Agra,Uttar Pradesh,Regular,Others,179.0,2.0,15732.0,424
+C0290,Emir Brahmbhatt,Ujjain,Madhya Pradesh,New,Loyal Customers,28.0,5.0,15693.5,576
+C0293,Mahika Bahl,Belagavi,Karnataka,New,Others,247.0,1.0,15651.0,434
+C0062,Aniruddh Bajaj,Gandhinagar,Gujarat,New,Others,7.0,2.0,15337.0,375
+C0872,Anahita Desai,Bhopal,Madhya Pradesh,Regular,Lost,278.0,1.0,15182.0,807
+C0323,Kanav Mander,Khammam,Telangana,Regular,Lost,530.0,1.0,14920.0,555
+C0342,Mehul Gupta,Jaipur,Rajasthan,Regular,At Risk,370.0,3.0,14901.5,655
+C0036,Vihaan Rajagopalan,Mysuru,Karnataka,New,Lost,656.0,1.0,14860.0,865
+C0816,Pari Din,Vadodara,Gujarat,Premium,Lost,272.0,2.0,14509.0,723
+C0267,Veer Dave,Kanpur,Uttar Pradesh,New,Loyal Customers,253.0,5.0,14500.5,571
+C0201,Nitara Bhattacharyya,Coimbatore,Tamil Nadu,Regular,Loyal Customers,210.0,5.0,14467.0,1015
+C0327,Abram Chawla,Madurai,Tamil Nadu,New,At Risk,224.0,3.0,14390.5,656
+C0193,Farhan Karan,Jodhpur,Rajasthan,Regular,Lost,395.0,2.0,14363.0,1019
+C0637,Hiran Suresh,Pune,Maharashtra,New,Others,221.0,2.0,13996.5,541
+C0503,Amani Gara,Lucknow,Uttar Pradesh,Regular,At Risk,311.0,3.0,13988.5,1019
+C0900,Emir Madan,Saket,Delhi,New,Others,21.0,2.0,13965.0,726
+C0493,Jayant Chaudhry,Mumbai,Maharashtra,Regular,Others,2.0,2.0,13734.0,553
+C0195,Amani Kumer,Siliguri,West Bengal,Premium,Loyal Customers,307.0,6.0,13250.0,706
+C0097,Tiya Dhaliwal,Hubballi,Karnataka,New,Lost,286.0,2.0,13017.5,871
+C0525,Bhamini Golla,Gandhinagar,Gujarat,New,Others,129.0,2.0,12990.0,464
+C0298,Zain Goda,Noida,Uttar Pradesh,New,Others,7.0,2.0,12697.5,942
+C0926,Jhanvi Bora,Jodhpur,Rajasthan,Regular,Loyal Customers,214.0,3.0,12651.5,835
+C0705,Lavanya Wable,Dwarka,Delhi,New,Others,7.0,3.0,12517.5,442
+C0214,Zoya Ramesh,Mangaluru,Karnataka,Regular,Others,103.0,2.0,12171.5,761
+C0722,Miraan D’Alia,Jodhpur,Rajasthan,Regular,Others,102.0,1.0,12060.0,944
+C0122,Umang Sundaram,Madurai,Tamil Nadu,Regular,Others,167.0,2.0,12027.0,985
+C0474,Hridaan De,Nagpur,Maharashtra,Regular,Others,1.0,3.0,11970.0,709
+C0604,Shray Swaminathan,Asansol,West Bengal,Regular,Others,176.0,1.0,11747.0,773
+C0254,Diya Mand,Nagpur,Maharashtra,New,Lost,510.0,2.0,11730.0,481
+C0950,Romil Tella,Durgapur,West Bengal,Regular,Others,87.0,2.0,11663.5,864
+C0846,Indranil Bedi,Ujjain,Madhya Pradesh,New,Others,186.0,1.0,11580.0,478
+C0798,Shray Karnik,Vadodara,Gujarat,Regular,Lost,618.0,1.0,11517.5,701
+C0853,Diya Chatterjee,Warangal,Telangana,Regular,Lost,348.0,2.0,11487.0,907
+C0971,Diya Mander,Bhopal,Madhya Pradesh,New,At Risk,273.0,2.0,11409.0,762
+C0634,Fateh Gole,Rohini,Delhi,Regular,Others,215.0,1.0,11309.0,518
+C0075,Alisha Krishnamurthy,Madurai,Tamil Nadu,Premium,Others,76.0,3.0,11112.0,674
+C0537,Parinaaz Biswas,Hyderabad,Telangana,Regular,At Risk,313.0,3.0,11030.0,727
+C0849,Tara Yogi,Udaipur,Rajasthan,New,At Risk,192.0,3.0,10865.0,526
+C0218,Baiju Bedi,Mysuru,Karnataka,Premium,Lost,455.0,1.0,10684.5,864
+C0123,Indrajit Raman,Jabalpur,Madhya Pradesh,Premium,Others,64.0,1.0,10555.0,689
+C0100,Dhanush Andra,Gandhinagar,Gujarat,Regular,At Risk,292.0,3.0,10546.0,579
+C0279,Zara Rana,Hyderabad,Telangana,Premium,At Risk,324.0,3.0,10395.0,690
+C0259,Krish Cheema,Gwalior,Madhya Pradesh,New,Others,33.0,3.0,10322.5,1066
+C0329,Siya Bera,Nizamabad,Telangana,Premium,Others,90.0,3.0,10039.5,1026
+C0314,Yashvi Aggarwal,Nashik,Maharashtra,Regular,Others,266.0,2.0,10035.0,715
+C0723,Raunak Bains,Belagavi,Karnataka,Regular,Others,126.0,1.0,9956.0,992
+C0964,Oorja Seshadri,Bhopal,Madhya Pradesh,Premium,Others,60.0,1.0,9900.0,541
+C0951,Fateh Kakar,Rajkot,Gujarat,New,Lost,376.0,1.0,9547.5,507
+C0385,Aaina Goda,Vadodara,Gujarat,New,At Risk,505.0,3.0,9540.0,586
+C0980,Indranil Chad,Noida,Uttar Pradesh,New,At Risk,229.0,2.0,9488.5,514
+C0310,Anay Solanki,Gwalior,Madhya Pradesh,New,Others,4.0,3.0,9464.0,636
+C0969,Yasmin Kashyap,Salem,Tamil Nadu,Regular,Lost,458.0,1.0,9357.5,972
+C0636,Faiyaz Mani,Warangal,Telangana,New,Others,78.0,2.0,9024.5,941
+C0568,Aaryahi Seshadri,Rohini,Delhi,New,Lost,313.0,2.0,8984.0,1062
+C0470,Reyansh Shenoy,Ahmedabad,Gujarat,Regular,At Risk,505.0,3.0,8806.5,520
+C0803,Ahana  Borra,Rajkot,Gujarat,Premium,Others,110.0,2.0,8415.0,980
+C0305,Vedika Kohli,Chennai,Tamil Nadu,Premium,Lost,355.0,2.0,8372.5,793
+C0395,Manjari Hegde,Hyderabad,Telangana,New,Others,23.0,3.0,8239.0,1049
+C0830,Yasmin Chokshi,Varanasi,Uttar Pradesh,Premium,Loyal Customers,17.0,4.0,8037.0,744
+C0945,Nirvi Yohannan,New Delhi,Delhi,Regular,Loyal Customers,183.0,3.0,7758.0,482
+C0551,Shanaya Banerjee,Jaipur,Rajasthan,Premium,Lost,381.0,2.0,7752.0,467
+C0435,Umang Sood,Durgapur,West Bengal,Regular,Others,103.0,2.0,7676.0,499
+C0490,Aradhya Iyengar,Mysuru,Karnataka,New,Lost,600.0,1.0,7480.0,1086
+C0714,Eva Tailor,Lucknow,Uttar Pradesh,Premium,Others,102.0,2.0,7170.0,691
+C0752,Alia Gaba,Nashik,Maharashtra,New,At Risk,368.0,3.0,7080.0,793
+C0650,Jayesh Savant,Mysuru,Karnataka,New,Lost,649.0,2.0,7051.5,393
+C0216,Inaaya  Guha,Khammam,Telangana,Premium,Others,185.0,2.0,6928.0,816
+C0159,Myra Deshpande,Ahmedabad,Gujarat,New,Loyal Customers,19.0,5.0,6721.0,392
+C0697,Romil Kohli,Mangaluru,Karnataka,Premium,Others,200.0,1.0,6599.0,921
+C0120,Badal Bakshi,Dwarka,Delhi,Regular,At Risk,334.0,3.0,6517.0,611
+C0268,Mishti Bali,Mangaluru,Karnataka,Regular,Others,94.0,2.0,6477.5,401
+C0121,Jiya Mand,Vadodara,Gujarat,New,Lost,501.0,1.0,6460.0,718
+C0718,Keya Keer,Jodhpur,Rajasthan,New,Lost,417.0,1.0,6450.0,453
+C0209,Divyansh Dasgupta,Lucknow,Uttar Pradesh,Premium,Lost,658.0,1.0,6400.0,516
+C0172,Kabir Reddy,Varanasi,Uttar Pradesh,New,Others,255.0,2.0,6215.0,532
+C0073,Mehul Gala,Siliguri,West Bengal,Premium,Lost,508.0,2.0,6140.0,679
+C0767,Aayush Dutt,Indore,Madhya Pradesh,Regular,Others,266.0,1.0,6093.0,594
+C0107,Nitara Divan,Jaipur,Rajasthan,Premium,At Risk,245.0,3.0,6070.0,884
+C0079,Khushi Mand,Udaipur,Rajasthan,Premium,Others,100.0,2.0,6057.0,810
+C0596,Chirag Lad,Mumbai,Maharashtra,New,Others,75.0,3.0,6021.5,383
+C0274,Divyansh Chaudhary,Jaipur,Rajasthan,New,Others,123.0,2.0,5996.0,649
+C0071,Mannat Jani,Jodhpur,Rajasthan,New,Lost,325.0,1.0,5784.0,1053
+C0186,Dhanuk Bhatti,Salem,Tamil Nadu,Regular,Others,45.0,2.0,5438.0,544
+C0569,Vardaniya Khosla,Salem,Tamil Nadu,Regular,Others,69.0,1.0,5420.0,516
+C0377,Divij Chopra,Bengaluru,Karnataka,Regular,Lost,306.0,1.0,5253.0,934
+C0842,Amani Anand,Saket,Delhi,New,At Risk,229.0,3.0,5229.0,383
+C0376,Kiara Raju,Surat,Gujarat,Regular,Lost,308.0,2.0,5151.0,394
+C0631,Vritika Agrawal,Hyderabad,Telangana,New,Others,258.0,1.0,4950.0,912
+C0840,Ahana  Vig,Hyderabad,Telangana,Premium,Others,124.0,3.0,4896.0,728
+C0959,Chirag Bassi,Belagavi,Karnataka,Regular,At Risk,478.0,2.0,4794.5,913
+C0710,Vardaniya Singh,Noida,Uttar Pradesh,New,Others,122.0,2.0,4702.5,1032
+C0633,Aaryahi Hans,Kolkata,West Bengal,Regular,Others,113.0,3.0,4607.0,529
+C0213,Nitya Raja,Ahmedabad,Gujarat,New,Loyal Customers,159.0,4.0,4486.0,502
+C0997,Zaina Venkataraman,Mangaluru,Karnataka,New,Lost,634.0,1.0,4455.0,463
+C0237,Anaya Walia,Pune,Maharashtra,New,At Risk,264.0,3.0,4150.0,1080
+C0748,Shaan Brar,Ahmedabad,Gujarat,Premium,Lost,353.0,1.0,4090.0,751
+C0502,Nakul Thaman,Hyderabad,Telangana,New,Others,103.0,2.0,4063.0,860
+C0753,Aniruddh Dhillon,Kota,Rajasthan,Regular,Others,72.0,2.0,4060.0,1059
+C0539,Vritika Borde,Bhopal,Madhya Pradesh,Premium,Lost,455.0,1.0,3960.0,519
+C0048,Mahika Raju,Janakpuri,Delhi,New,Lost,561.0,1.0,3906.0,1035
+C0899,Nirvaan Chopra,New Delhi,Delhi,New,Others,89.0,1.0,3905.0,825
+C0202,Emir Butala,Indore,Madhya Pradesh,Premium,Lost,728.0,1.0,3888.0,586
+C0973,Faiyaz Ganguly,Gwalior,Madhya Pradesh,New,Lost,689.0,1.0,3806.0,721
+C0419,Miraya Gour,New Delhi,Delhi,Regular,Others,6.0,3.0,3546.0,993
+C0239,Vedika Singh,Salem,Tamil Nadu,New,Others,145.0,2.0,3540.0,557
+C0992,Tara Kohli,Vadodara,Gujarat,Regular,Others,9.0,2.0,3384.5,494
+C0049,Mishti Cherian,Udaipur,Rajasthan,New,Lost,453.0,2.0,2940.0,630
+C0856,Biju Shroff,Kanpur,Uttar Pradesh,Regular,Others,94.0,3.0,2907.0,462
+C0179,Sara Thakkar,Karimnagar,Telangana,New,At Risk,133.0,3.0,2840.0,1000
+C0802,Madhup Balay,Bhopal,Madhya Pradesh,Premium,Lost,445.0,2.0,2673.0,395
+C0819,Taimur Krish,Nagpur,Maharashtra,Premium,Others,214.0,1.0,2430.0,732
+C0687,Sumer Kale,Bhopal,Madhya Pradesh,Regular,Lost,509.0,2.0,2422.5,909
+C0709,Damini Varty,Nagpur,Maharashtra,Regular,Lost,493.0,2.0,2410.0,645
+C0148,Romil Amble,Rajkot,Gujarat,New,Others,175.0,1.0,2325.0,747
+C0406,Manjari Basu,Pune,Maharashtra,New,Lost,417.0,2.0,2211.5,564
+C0619,Anaya Dey,Kanpur,Uttar Pradesh,New,Others,2.0,3.0,1476.0,973
+C0055,Misha Shukla,Belagavi,Karnataka,Regular,Lost,671.0,1.0,1339.5,843
+C0188,Zain Randhawa,Dwarka,Delhi,New,Lost,566.0,1.0,1180.0,510
+C0751,Rohan Trivedi,Jabalpur,Madhya Pradesh,New,Lost,311.0,1.0,912.0,419
+C0060,Abram Sen,Belagavi,Karnataka,Regular,Others,159.0,2.0,788.5,877
+C0750,Aarav Kalla,Dwarka,Delhi,Regular,Lost,275.0,1.0,780.0,566
+C0341,Biju Dhar,Vadodara,Gujarat,New,Lost,551.0,1.0,663.0,564
+C0663,Dishani Dhar,Chennai,Tamil Nadu,Regular,Lost,711.0,1.0,660.0,467
+C0662,Aaina Cherian,Howrah,West Bengal,New,Lost,566.0,2.0,427.5,904
+C0243,Kimaya Bajwa,Nashik,Maharashtra,Regular,Lost,688.0,2.0,228.0,684
+C0522,Divij Tandon,Madurai,Tamil Nadu,New,Others,4.0,2.0,0.0,787
+C0673,Saira Kohli,Howrah,West Bengal,New,Lost,528.0,2.0,0.0,915
+C0664,Shamik Chada,Varanasi,Uttar Pradesh,Premium,Others,263.0,1.0,0.0,674
+C0156,Neelofar Srinivasan,Mysuru,Karnataka,New,Others,203.0,2.0,0.0,850
+C0015,Badal Sachdev,Salem,Tamil Nadu,New,Lost,473.0,2.0,0.0,707
+C0897,Mamooty Bora,Warangal,Telangana,New,Lost,564.0,1.0,0.0,639
+C0263,Alia Chakrabarti,Howrah,West Bengal,New,Lost,560.0,1.0,0.0,717
+C0995,Pari Koshy,Salem,Tamil Nadu,New,Lost,291.0,1.0,0.0,990
+C0265,Eshani Choudhary,Tiruchirappalli,Tamil Nadu,Regular,Others,97.0,1.0,0.0,1045
+C0998,Rohan Baria,Kanpur,Uttar Pradesh,Regular,Others,254.0,1.0,0.0,842
+C0127,Amira Lata,Belagavi,Karnataka,New,Lost,288.0,2.0,0.0,432
+C0582,Seher Ramesh,Kota,Rajasthan,New,Lost,381.0,1.0,0.0,633
+C0269,Dhruv Bansal,Nizamabad,Telangana,New,Others,42.0,3.0,0.0,1049
+C0519,Suhana Sathe,Ujjain,Madhya Pradesh,Premium,Lost,409.0,1.0,0.0,763
+C0577,Alisha Mander,Aurangabad,Maharashtra,Regular,Others,31.0,1.0,0.0,736
+C0067,Jayant Chaudhry,Hubballi,Karnataka,New,Lost,351.0,2.0,0.0,812
+C0425,Neelofar Sastry,Kota,Rajasthan,Premium,Others,93.0,1.0,0.0,905
+C0932,Nayantara Subramanian,Gwalior,Madhya Pradesh,New,Lost,490.0,1.0,0.0,469
+C0008,Veer Halder,Siliguri,West Bengal,Premium,Others,2.0,1.0,0.0,825
+C0609,Hrishita Varghese,Hyderabad,Telangana,Premium,At Risk,273.0,3.0,0.0,726
+C0465,Sara Jhaveri,Udaipur,Rajasthan,New,Others,51.0,1.0,0.0,814
+C0199,Myra Tripathi,Nagpur,Maharashtra,New,Lost,592.0,1.0,0.0,1038
+C0033,Mishti Dar,Salem,Tamil Nadu,New,Others,25.0,1.0,0.0,533
+C0381,Saira Wali,Mangaluru,Karnataka,New,Others,33.0,1.0,0.0,635
+C0800,Rania Sura,Chennai,Tamil Nadu,Premium,Others,71.0,1.0,0.0,669
+C0451,Zoya Shanker,Udaipur,Rajasthan,Regular,Lost,450.0,1.0,0.0,704
+C0640,Anvi Toor,Ahmedabad,Gujarat,Regular,Others,31.0,2.0,0.0,950
+C0682,Purab Sarkar,Ajmer,Rajasthan,New,Lost,322.0,2.0,0.0,992
+C0031,Hunar Sagar,New Delhi,Delhi,Premium,,,,,849
+C0046,Raghav Bajaj,Gandhinagar,Gujarat,New,,,,,995
+C0056,Sahil Majumdar,Bhopal,Madhya Pradesh,Regular,,,,,666
+C0078,Saksham Kala,Durgapur,West Bengal,New,,,,,862
+C0084,Azad Choudhary,Lucknow,Uttar Pradesh,Regular,,,,,370
+C0137,Eva Sarraf,Gandhinagar,Gujarat,Regular,,,,,849
+C0141,Jayesh Luthra,Asansol,West Bengal,New,,,,,818
+C0157,Saksham Anand,Chennai,Tamil Nadu,Regular,,,,,677
+C0196,Azad Keer,Hyderabad,Telangana,New,,,,,463
+C0277,Samiha Barad,Tiruchirappalli,Tamil Nadu,Premium,,,,,624
+C0296,Pranay Chahal,Bhopal,Madhya Pradesh,Regular,,,,,449
+C0324,Hrishita Goswami,Rohini,Delhi,New,,,,,971
+C0355,Charvi Varma,Agra,Uttar Pradesh,Regular,,,,,375
+C0372,Divij Talwar,Ujjain,Madhya Pradesh,New,,,,,938
+C0409,Aaina Chaudhary,Jabalpur,Madhya Pradesh,Premium,,,,,899
+C0438,Tanya Kale,Mangaluru,Karnataka,Regular,,,,,719
+C0461,Elakshi Salvi,New Delhi,Delhi,Regular,,,,,684
+C0494,Jayant Thaker,Aurangabad,Maharashtra,Regular,,,,,381
+C0497,Advika Johal,Jaipur,Rajasthan,Premium,,,,,713
+C0535,Lagan Iyengar,Kanpur,Uttar Pradesh,Regular,,,,,662
+C0543,Vaibhav Arora,Kolkata,West Bengal,New,,,,,601
+C0545,Raunak Tata,Surat,Gujarat,Regular,,,,,562
+C0557,Riya Kanda,Bhopal,Madhya Pradesh,New,,,,,739
+C0559,Prisha Dube,Ujjain,Madhya Pradesh,Regular,,,,,1009
+C0562,Madhup Bali,Jabalpur,Madhya Pradesh,New,,,,,662
+C0603,Khushi Tara,Bengaluru,Karnataka,Regular,,,,,952
+C0615,Riaan Dhaliwal,Lucknow,Uttar Pradesh,New,,,,,778
+C0694,Faiyaz Deshmukh,Hubballi,Karnataka,Regular,,,,,504
+C0700,Ojas Bir,Chennai,Tamil Nadu,New,,,,,992
+C0708,Fateh Manda,Madurai,Tamil Nadu,New,,,,,705
+C0734,Miraan Chaudry,Khammam,Telangana,New,,,,,1066
+C0735,Ritvik Rastogi,Pune,Maharashtra,Regular,,,,,1062
+C0758,Devansh Krishnan,Rohini,Delhi,Regular,,,,,867
+C0760,Raunak Sarna,Ahmedabad,Gujarat,New,,,,,614
+C0787,Rohan Wali,Warangal,Telangana,Regular,,,,,729
+C0812,Veer Banik,Jodhpur,Rajasthan,Regular,,,,,1015
+C0818,Neelofar Chad,Asansol,West Bengal,New,,,,,979
+C0847,Anika Keer,Varanasi,Uttar Pradesh,Premium,,,,,914
+C0967,Hazel Kuruvilla,Indore,Madhya Pradesh,Regular,,,,,1040
+C0983,Vanya Kashyap,Khammam,Telangana,New,,,,,832

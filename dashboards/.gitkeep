@@ -1,0 +1,8 @@
+# Dashboards directory
+# Dashboard definition files and templates
+
+# Recommended files:
+#   dashboard_config.json       — Plotly Dash / Streamlit config
+#   app.py                      — main dashboard application
+#   components/                 — reusable dashboard components
+#   assets/                     — CSS, images for the dashboard

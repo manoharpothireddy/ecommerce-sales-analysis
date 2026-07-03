@@ -1,0 +1,65 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pycache
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.whl
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Data files (keep structure, ignore data)
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xlsx
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.xlsx
+
+# Output files
+outputs/plots/*.png
+outputs/plots/*.jpg
+outputs/reports/*.pdf
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini

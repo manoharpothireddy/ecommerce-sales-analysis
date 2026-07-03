@@ -1,0 +1,10 @@
+# Plots output directory
+# Generated charts and visualizations are saved here
+
+# File naming convention:
+#   01_monthly_revenue_trend.png
+#   02_top10_products_by_revenue.png
+#   03_customer_segments_scatter.png
+#   04_cohort_retention_heatmap.png
+#   05_rfm_distribution.png
+#   06_category_sales_breakdown.png

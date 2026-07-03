@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,profit_margin,total_units_sold,total_revenue,order_count,avg_discount_pct
+P027,Bluetooth Speaker,Electronics,HP,8050,26.83,197,1515815.0,66,5.0
+P080,DSLR Camera,Electronics,HP,8110,37.17,196,1494673.0,59,5.67
+P021,Tablet,Electronics,Sony,9290,30.29,156,1357733.5,47,6.04
+P004,Resistance Bands Set,Sports,Nike,6680,38.88,200,1290242.0,59,3.14
+P022,Wireless Earbuds,Electronics,Dell,7880,36.2,161,1205640.0,49,4.71
+P045,Cycling Gloves,Sports,SG,6940,33.51,180,1182923.0,63,6.27
+P035,Knife Set,Home & Kitchen,Milton,7450,23.36,167,1174492.5,54,5.28
+P037,USB Hub,Electronics,Samsung,7960,23.53,149,1130718.0,49,4.7
+P071,Wireless Earbuds,Electronics,Xiaomi,7700,31.53,153,1128435.0,55,4.29
+P050,Non-Stick Cookware Set,Home & Kitchen,Philips,7950,33.96,144,1103857.5,48,4.17
+P059,Dumbbell Set,Sports,Vector X,5810,31.67,197,1092861.0,62,4.6
+P072,Smart Watch,Electronics,OnePlus,5410,26.89,195,994899.0,65,5.23
+P010,Mixer Grinder,Home & Kitchen,Amazon Basics,5910,25.11,172,944418.0,56,6.25
+P028,Wall Clock,Home & Kitchen,Philips,4330,30.05,227,933115.0,67,4.93
+P042,Web Cam,Electronics,OnePlus,6210,26.7,151,883372.5,48,5.42
+P065,Running Shoes,Sports,Nike,5610,37.04,171,879648.0,54,8.15
+P053,Tablet,Electronics,Dell,6220,36.88,148,871422.0,51,5.29
+P009,Pressure Cooker,Home & Kitchen,Philips,5550,33.76,162,839992.5,55,6.18
+P095,Football,Sports,SG,4480,27.49,196,837536.0,62,4.52
+P044,Saree,Clothing,FabIndia,3990,31.14,215,817351.5,69,4.93
+P025,DSLR Camera,Electronics,HP,5570,39.99,155,806536.0,54,6.82
+P100,Track Pants,Clothing,Zara,3910,37.1,214,795098.5,63,4.84
+P098,Dumbbell Set,Sports,Cosco,4950,35.95,164,769725.0,56,5.26
+P040,Toaster,Home & Kitchen,Amazon Basics,4350,35.02,186,764295.0,55,5.91
+P073,Mixer Grinder,Home & Kitchen,Amazon Basics,5040,20.2,161,756000.0,56,6.34
+P048,Laptop,Electronics,Samsung,5520,30.95,147,753204.0,49,6.12
+P026,Power Bank,Electronics,Xiaomi,4300,39.63,182,744115.0,56,5.09
+P008,Cricket Bat,Sports,SG,5280,38.12,141,694320.0,44,5.91
+P014,Storage Box Set,Home & Kitchen,Amazon Basics,3350,35.14,216,680385.0,68,5.86
+P096,Cycling Gloves,Sports,Nivia,4220,31.47,169,678998.0,65,5.0
+P001,Yoga Mat,Sports,Nike,5230,35.34,134,669963.0,49,4.59
+P034,Football,Sports,Decathlon,5160,39.74,136,668478.0,43,4.42
+P089,Resistance Bands Set,Sports,Decathlon,3940,33.33,169,630400.0,56,5.27
+P020,Laptop,Electronics,OnePlus,4350,26.21,144,594862.5,44,5.43
+P081,Salwar Kameez,Clothing,Zara,3660,29.46,166,572607.0,60,5.42
+P075,Air Fryer,Home & Kitchen,Prestige,3180,24.85,187,570333.0,64,4.85
+P006,Smartphone,Electronics,HP,3090,20.51,188,552492.0,67,5.0
+P005,Non-Stick Cookware Set,Home & Kitchen,IKEA,3920,36.16,146,548604.0,47,4.17
+P077,Storage Box Set,Home & Kitchen,IKEA,2940,23.91,186,522879.0,60,5.0
+P061,Casual T-Shirt,Clothing,Manyavar,3200,32.35,161,483680.0,57,5.86
+P067,Pressure Cooker,Home & Kitchen,Philips,3370,31.31,150,470957.5,48,6.73
+P084,Cushion Cover Set,Home & Kitchen,Prestige,2390,22.96,193,439521.0,61,4.67
+P024,Smart Watch,Electronics,Sony,3480,36.9,133,436218.0,45,5.0
+P029,Dinner Set,Home & Kitchen,Prestige,2480,31.8,186,435612.0,65,5.31
+P003,Casual T-Shirt,Clothing,Nike,2910,39.37,158,433153.5,55,5.36
+P057,Formal Shirt,Clothing,Biba,2710,39.25,162,416798.0,60,5.08
+P023,Lipstick Set,Beauty,Nivea,2250,34.49,194,409950.0,66,6.27
+P033,Perfume,Beauty,Himalaya,2160,34.88,200,405000.0,61,6.07
+P086,Yoga Mat,Sports,SG,3800,25.81,111,402610.0,37,5.39
+P043,Smartphone,Electronics,OnePlus,4260,31.97,100,396393.0,35,6.67
+P018,Denim Jeans,Clothing,Zara,2720,25.97,151,388552.0,49,5.41
+P041,Track Pants,Clothing,FabIndia,2410,25.08,173,385600.0,58,6.9
+P097,Kurti,Clothing,Manyavar,2020,37.36,200,376629.0,66,6.67
+P047,Blazer,Clothing,Puma,2430,35.72,159,362920.5,56,5.61
+P070,Sports Water Bottle,Sports,Nike,2230,31.4,168,355685.0,61,4.92
+P087,Lipstick Set,Beauty,Nivea,1870,38.24,200,349409.5,63,5.78
+P085,Wall Clock,Home & Kitchen,Philips,2550,22.33,148,345525.0,46,7.96
+P054,BB Cream,Beauty,Lakme,1830,35.34,190,338092.5,60,3.08
+P051,Eyeshadow Palette,Beauty,Nivea,2600,39.57,136,332930.0,46,6.2
+P063,Badminton Racquet,Sports,SG,1930,38.99,179,330416.0,60,4.84
+P074,Denim Jeans,Clothing,Zara,1980,21.52,179,329769.0,60,6.83
+P091,Cricket Bat,Sports,Cosco,2030,20.43,174,325307.5,57,7.28
+P011,Air Fryer,Home & Kitchen,Bosch,2250,27.23,154,324787.5,48,6.56
+P055,Jacket,Clothing,Puma,1840,21.64,184,322368.0,58,4.83
+P060,Skipping Rope,Sports,Nike,1970,26.94,166,307221.5,57,5.96
+P068,Moisturiser SPF 50,Beauty,Himalaya,1770,30.24,165,279306.0,56,4.73
+P088,Face Wash,Beauty,Himalaya,1770,25.75,160,272403.0,54,4.07
+P030,Face Wash,Beauty,Himalaya,1660,38.67,167,263442.0,51,5.1
+P099,Hair Oil,Beauty,L'Oreal,2170,29.52,123,253456.0,41,5.24
+P013,Vitamin C Serum,Beauty,Nivea,1410,39.7,184,247455.0,64,4.38
+P036,Sunscreen Gel,Beauty,Mamaearth,1210,25.13,188,213625.5,65,6.38
+P002,Formal Shirt,Clothing,FabIndia,1180,31.59,175,195231.0,57,5.34
+P082,Shampoo & Conditioner Combo,Beauty,Mamaearth,990,24.22,197,183496.5,69,5.94
+P093,Sunscreen Gel,Beauty,Mamaearth,1750,34.4,110,182700.0,42,4.64
+P007,The Alchemist,Books,Harper Collins,980,35.06,191,180957.0,65,3.54
+P056,Sapiens,Books,Penguin,830,36.54,220,176541.0,72,3.75
+P016,Cushion Cover Set,Home & Kitchen,Milton,990,36.85,175,164439.0,54,5.37
+P017,Shampoo & Conditioner Combo,Beauty,Lakme,1150,20.61,148,159965.0,51,5.98
+P046,Data Structures & Algorithms,Books,Rupa,710,23.48,184,122262.0,60,6.23
+P032,Wings of Fire,Books,Rupa,660,23.27,194,121407.0,65,5.77
+P058,Deep Work,Books,Oxford,820,21.56,157,121196.0,53,5.65
+P038,Kurti,Clothing,Manyavar,650,33.92,186,114887.5,55,4.73
+P064,Harry Potter Box Set,Books,Scholastic,680,29.91,172,113050.0,55,3.95
+P079,Wings of Fire,Books,Scholastic,640,24.99,181,111712.0,63,3.65
+P015,Atomic Habits,Books,Oxford,750,26.23,146,103162.5,45,5.76
+P066,The Alchemist,Books,Oxford,660,39.01,156,97977.0,58,5.34
+P083,Data Structures & Algorithms,Books,Scholastic,570,21.1,157,82935.0,53,6.32
+P052,The Lean Startup,Books,Penguin,640,21.48,131,79200.0,43,5.23
+P069,Atomic Habits,Books,Harper Collins,690,25.29,106,70380.0,41,3.93
+P031,Salwar Kameez,Clothing,H&M,510,37.86,143,69436.5,42,4.65
+P049,Shorts,Clothing,Manyavar,520,34.31,136,67132.0,49,4.8
+P094,Sapiens,Books,Rupa,510,37.25,123,59466.0,44,4.77
+P092,Perfume,Beauty,Lakme,370,34.85,145,50486.5,45,6.0
+P019,Rich Dad Poor Dad,Books,Scholastic,390,20.37,135,49744.5,46,5.0
+P039,Hair Oil,Beauty,Himalaya,480,35.38,108,49224.0,38,5.39
+P012,Moisturiser SPF 50,Beauty,Himalaya,340,26.66,145,47447.0,51,4.06
+P076,Rich Dad Poor Dad,Books,Oxford,240,21.02,190,43176.0,58,5.08
+P062,Think and Grow Rich,Books,Rupa,450,28.7,92,39060.0,38,5.53
+P090,The Lean Startup,Books,S. Chand,210,26.31,185,36750.0,57,5.52
+P078,Vitamin C Serum,Beauty,Himalaya,260,35.82,135,33358.0,44,5.54

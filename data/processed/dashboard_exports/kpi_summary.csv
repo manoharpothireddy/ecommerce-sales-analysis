@@ -1,0 +1,2 @@
+total_revenue,total_orders,delivered_orders,cancelled_orders,returned_orders,total_customers,avg_order_value,avg_items_per_order,top_category,top_payment_method
+48814012.5,5000,3470,501,507,1000,14067.44,5.95,Electronics,UPI

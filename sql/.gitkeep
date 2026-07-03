@@ -1,0 +1,11 @@
+# SQL directory
+# SQL queries for data extraction and analysis
+
+# Recommended files:
+#   schema.sql                  — database schema definition
+#   top_products.sql            — top products by revenue and units sold
+#   revenue_trends.sql          — monthly/quarterly revenue aggregations
+#   customer_lifetime_value.sql — CLV calculations per customer
+#   rfm_query.sql               — Recency, Frequency, Monetary queries
+#   cohort_query.sql            — cohort retention SQL
+#   purchasing_patterns.sql     — basket analysis and repeat purchase rates

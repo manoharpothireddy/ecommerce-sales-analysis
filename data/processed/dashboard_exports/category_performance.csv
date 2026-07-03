@@ -1,0 +1,7 @@
+category,total_orders,delivered_orders,returned_orders,return_rate_pct,total_revenue,avg_price,total_units_sold
+Electronics,1098,745,114,10.38,14866528.5,6139.2,3779
+Sports,1157,788,129,11.15,11116334.0,4358.21,3949
+Home & Kitchen,1193,834,107,8.97,11019213.5,3950.42,4176
+Clothing,1174,814,119,10.14,6131214.0,2324.85,3946
+Beauty,1233,851,142,11.52,4071746.5,1460.49,4260
+Books,1159,810,106,9.15,1608976.0,628.67,3882

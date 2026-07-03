@@ -1,0 +1,8 @@
+# Reports output directory
+# Generated analysis reports are saved here
+
+# File naming convention:
+#   executive_summary_YYYY-MM.pdf
+#   customer_segmentation_report_YYYY-MM.pdf
+#   monthly_sales_report_YYYY-MM.html
+#   cohort_analysis_report_YYYY-MM.html
