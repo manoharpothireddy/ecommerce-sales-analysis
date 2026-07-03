@@ -433,7 +433,7 @@ This project is licensed under the **MIT License**.
 
 **Your Name**
 - GitHub: [P MANOHAR REDDY](https://github.com/manoharpothireddy)
-- LinkedIn: ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manohar-reddy-pothireddy-3ab1a7319/))
+- LinkedIn: ([https://linkedin.com/in/MANOHAR REDDY POTHIREDDY](https://www.linkedin.com/in/manohar-reddy-pothireddy-3ab1a7319/))
 - Email: p.manoharreddy789809@gmail.com
 
 ---
