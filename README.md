@@ -432,9 +432,9 @@ This project is licensed under the **MIT License**.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- GitHub: [P MANOHAR REDDY](https://github.com/manoharpothireddy)
+- LinkedIn: [linkedin.com/in/manohar-reddy-pothireddy]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manohar-reddy-pothireddy-3ab1a7319/))
+- Email: p.manoharreddy789809@gmail.com
 
 ---
 
