@@ -1,0 +1,101 @@
+product_id,product_name,category,sub_category,brand,price,cost_price,stock_quantity
+P001,Yoga Mat,Sports,Cricket,Nike,5230,3381.52,262
+P002,Formal Shirt,Clothing,Ethnic Wear,FabIndia,1180,807.18,247
+P003,Casual T-Shirt,Clothing,Men's Wear,Nike,2910,1764.47,394
+P004,Resistance Bands Set,Sports,Cycling,Nike,6680,4082.87,288
+P005,Non-Stick Cookware Set,Home & Kitchen,Decor,IKEA,3920,2502.68,434
+P006,Smartphone,Electronics,Laptops,HP,3090,2456.3,404
+P007,The Alchemist,Books,Fiction,Harper Collins,980,636.44,245
+P008,Cricket Bat,Sports,Cricket,SG,5280,3267.22,209
+P009,Pressure Cooker,Home & Kitchen,Decor,Philips,5550,3676.44,332
+P010,Mixer Grinder,Home & Kitchen,Storage,Amazon Basics,5910,4426.26,72
+P011,Air Fryer,Home & Kitchen,Furniture,Bosch,2250,1637.33,464
+P012,Moisturiser SPF 50,Beauty,Skincare,Himalaya,340,249.34,334
+P013,Vitamin C Serum,Beauty,Makeup,Nivea,1410,850.25,71
+P014,Storage Box Set,Home & Kitchen,Cookware,Amazon Basics,3350,2172.87,411
+P015,Atomic Habits,Books,Non-Fiction,Oxford,750,553.26,404
+P016,Cushion Cover Set,Home & Kitchen,Cookware,Milton,990,625.22,326
+P017,Shampoo & Conditioner Combo,Beauty,Skincare,Lakme,1150,913.02,192
+P018,Denim Jeans,Clothing,Men's Wear,Zara,2720,2013.52,259
+P019,Rich Dad Poor Dad,Books,Academic,Scholastic,390,310.57,385
+P020,Laptop,Electronics,Tablets,OnePlus,4350,3209.65,138
+P021,Tablet,Electronics,Accessories,Sony,9290,6475.69,287
+P022,Wireless Earbuds,Electronics,Laptops,Dell,7880,5027.09,175
+P023,Lipstick Set,Beauty,Personal Care,Nivea,2250,1473.9,92
+P024,Smart Watch,Electronics,Tablets,Sony,3480,2195.9,287
+P025,DSLR Camera,Electronics,Cameras,HP,5570,3342.8,385
+P026,Power Bank,Electronics,Tablets,Xiaomi,4300,2596.1,174
+P027,Bluetooth Speaker,Electronics,Cameras,HP,8050,5889.85,107
+P028,Wall Clock,Home & Kitchen,Storage,Philips,4330,3028.88,323
+P029,Dinner Set,Home & Kitchen,Decor,Prestige,2480,1691.26,59
+P030,Face Wash,Beauty,Haircare,Himalaya,1660,1018.14,457
+P031,Salwar Kameez,Clothing,Women's Wear,H&M,510,316.92,26
+P032,Wings of Fire,Books,Children,Rupa,660,506.39,329
+P033,Perfume,Beauty,Makeup,Himalaya,2160,1406.57,320
+P034,Football,Sports,Cricket,Decathlon,5160,3109.5,261
+P035,Knife Set,Home & Kitchen,Cleaning,Milton,7450,5709.8,41
+P036,Sunscreen Gel,Beauty,Fragrances,Mamaearth,1210,905.92,416
+P037,USB Hub,Electronics,Tablets,Samsung,7960,6087.24,385
+P038,Kurti,Clothing,Women's Wear,Manyavar,650,429.51,59
+P039,Hair Oil,Beauty,Fragrances,Himalaya,480,310.18,108
+P040,Toaster,Home & Kitchen,Furniture,Amazon Basics,4350,2826.42,393
+P041,Track Pants,Clothing,Sportswear,FabIndia,2410,1805.62,355
+P042,Web Cam,Electronics,Mobile Phones,OnePlus,6210,4552.23,415
+P043,Smartphone,Electronics,Tablets,OnePlus,4260,2898.13,283
+P044,Saree,Clothing,Kids' Wear,FabIndia,3990,2747.52,291
+P045,Cycling Gloves,Sports,Football,SG,6940,4614.62,401
+P046,Data Structures & Algorithms,Books,Academic,Rupa,710,543.31,133
+P047,Blazer,Clothing,Sportswear,Puma,2430,1561.97,140
+P048,Laptop,Electronics,Accessories,Samsung,5520,3811.45,381
+P049,Shorts,Clothing,Men's Wear,Manyavar,520,341.59,79
+P050,Non-Stick Cookware Set,Home & Kitchen,Decor,Philips,7950,5249.93,119
+P051,Eyeshadow Palette,Beauty,Makeup,Nivea,2600,1571.28,271
+P052,The Lean Startup,Books,Non-Fiction,Penguin,640,502.52,29
+P053,Tablet,Electronics,Tablets,Dell,6220,3926.2,465
+P054,BB Cream,Beauty,Makeup,Lakme,1830,1183.28,302
+P055,Jacket,Clothing,Men's Wear,Puma,1840,1441.78,176
+P056,Sapiens,Books,Self-Help,Penguin,830,526.7,314
+P057,Formal Shirt,Clothing,Sportswear,Biba,2710,1646.26,50
+P058,Deep Work,Books,Academic,Oxford,820,643.19,460
+P059,Dumbbell Set,Sports,Fitness,Vector X,5810,3970.0,404
+P060,Skipping Rope,Sports,Yoga,Nike,1970,1439.19,334
+P061,Casual T-Shirt,Clothing,Kids' Wear,Manyavar,3200,2164.79,31
+P062,Think and Grow Rich,Books,Academic,Rupa,450,320.84,367
+P063,Badminton Racquet,Sports,Cycling,SG,1930,1177.5,395
+P064,Harry Potter Box Set,Books,Non-Fiction,Scholastic,680,476.64,158
+P065,Running Shoes,Sports,Football,Nike,5610,3532.07,253
+P066,The Alchemist,Books,Children,Oxford,660,402.51,53
+P067,Pressure Cooker,Home & Kitchen,Furniture,Philips,3370,2314.85,256
+P068,Moisturiser SPF 50,Beauty,Personal Care,Himalaya,1770,1234.7,297
+P069,Atomic Habits,Books,Non-Fiction,Harper Collins,690,515.52,46
+P070,Sports Water Bottle,Sports,Yoga,Nike,2230,1529.81,67
+P071,Wireless Earbuds,Electronics,Tablets,Xiaomi,7700,5272.25,174
+P072,Smart Watch,Electronics,Tablets,OnePlus,5410,3955.15,189
+P073,Mixer Grinder,Home & Kitchen,Cleaning,Amazon Basics,5040,4022.08,84
+P074,Denim Jeans,Clothing,Women's Wear,Zara,1980,1553.99,360
+P075,Air Fryer,Home & Kitchen,Cookware,Prestige,3180,2389.92,388
+P076,Rich Dad Poor Dad,Books,Non-Fiction,Oxford,240,189.55,17
+P077,Storage Box Set,Home & Kitchen,Decor,IKEA,2940,2236.92,251
+P078,Vitamin C Serum,Beauty,Personal Care,Himalaya,260,166.87,114
+P079,Wings of Fire,Books,Self-Help,Scholastic,640,480.05,328
+P080,DSLR Camera,Electronics,Mobile Phones,HP,8110,5095.27,308
+P081,Salwar Kameez,Clothing,Kids' Wear,Zara,3660,2581.62,40
+P082,Shampoo & Conditioner Combo,Beauty,Personal Care,Mamaearth,990,750.26,37
+P083,Data Structures & Algorithms,Books,Fiction,Scholastic,570,449.75,348
+P084,Cushion Cover Set,Home & Kitchen,Decor,Prestige,2390,1841.3,19
+P085,Wall Clock,Home & Kitchen,Cleaning,Philips,2550,1980.54,204
+P086,Yoga Mat,Sports,Football,SG,3800,2819.36,453
+P087,Lipstick Set,Beauty,Haircare,Nivea,1870,1154.92,244
+P088,Face Wash,Beauty,Skincare,Himalaya,1770,1314.21,482
+P089,Resistance Bands Set,Sports,Cycling,Decathlon,3940,2626.85,90
+P090,The Lean Startup,Books,Academic,S. Chand,210,154.74,164
+P091,Cricket Bat,Sports,Yoga,Cosco,2030,1615.17,425
+P092,Perfume,Beauty,Fragrances,Lakme,370,241.07,493
+P093,Sunscreen Gel,Beauty,Haircare,Mamaearth,1750,1148.07,469
+P094,Sapiens,Books,Children,Rupa,510,320.0,357
+P095,Football,Sports,Cricket,SG,4480,3248.47,133
+P096,Cycling Gloves,Sports,Football,Nivia,4220,2891.94,178
+P097,Kurti,Clothing,Women's Wear,Manyavar,2020,1265.24,287
+P098,Dumbbell Set,Sports,Cricket,Cosco,4950,3170.29,362
+P099,Hair Oil,Beauty,Haircare,L'Oreal,2170,1529.33,475
+P100,Track Pants,Clothing,Sportswear,Zara,3910,2459.51,172

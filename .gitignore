@@ -8,11 +8,9 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-*.pycache
 
-# Jupyter
+# Jupyter checkpoints
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
 # macOS
 .DS_Store
@@ -31,11 +29,6 @@ build/
 *.egg
 *.whl
 
-# Database files
-*.db
-*.sqlite
-*.sqlite3
-
 # IDE
 .vscode/
 .idea/
@@ -46,20 +39,11 @@ build/
 *.log
 logs/
 
-# Data files (keep structure, ignore data)
-data/raw/*.csv
-data/raw/*.json
-data/raw/*.xlsx
-data/processed/*.csv
-data/processed/*.json
-data/processed/*.xlsx
-
-# Output files
-outputs/plots/*.png
-outputs/plots/*.jpg
-outputs/reports/*.pdf
-
 # OS
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# NOTE: data files, plots, and notebooks are intentionally tracked
+# so the full project is visible on GitHub.
+# Do NOT add *.csv, *.db, *.png, or *.ipynb to this file.
