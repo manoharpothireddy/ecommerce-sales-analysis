@@ -1,57 +1,235 @@
 # 🛒 E-Commerce Sales & Customer Behavior Analysis
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.26.2-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3.2-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.2-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-
-**End-to-end data analytics pipeline on a synthetic Indian e-commerce dataset.**  
-Data generation → Cleaning → SQL analysis → EDA → RFM segmentation → Dashboard exports.
-
-[📊 Key Findings](#-key-findings) · [🚀 Quick Start](#-quick-start) · [📁 Project Structure](#-project-structure) · [📈 Analysis Scripts](#-analysis-scripts) · [📸 Dashboard Screenshots](#-dashboard-screenshots)](#-sample-plots)
-
-</div>
+> An end-to-end data analytics portfolio project — from synthetic data generation to
+> interactive dashboards — analysing **14,100 records** across **1,000 customers**,
+> **100 products**, and **5,000 orders** spanning **January 2022 to January 2024**,
+> with deep focus on revenue trends, RFM segmentation, and product performance.
 
 ---
 
-## 📌 Project Overview
-
-A complete, production-style analytics project built on a **synthetic Indian e-commerce dataset** containing:
-
-| Dataset | Size |
-|---------|------|
-| Customers | 1,000 rows |
-| Products | 100 rows (6 categories) |
-| Orders | 5,000 rows |
-| Order Items | 8,000 rows |
-| Date Range | 2022-01-01 → 2024-01-01 |
-
-The project covers the **full analytics lifecycle**:
-
-1. 🏭 **Data Generation** — synthetic realistic data using Faker (Indian locale)
-2. 🧹 **Data Cleaning** — null checks, deduplication, feature engineering
-3. 🗄️ **SQL Analysis** — 8 queries via SQLAlchemy on a SQLite database
-4. 📊 **EDA** — 8 publication-quality Matplotlib/Seaborn charts
-5. 👥 **RFM Segmentation** — Recency, Frequency, Monetary scoring with quartile binning
-6. 📤 **Dashboard Exports** — 6 Tableau/Power BI-ready CSV files
+## 📌 Table of Contents
+1. [Project Overview](#-project-overview)
+2. [Tools & Technologies](#-tools--technologies)
+3. [Architecture](#-architecture)
+4. [Folder Structure](#-folder-structure)
+5. [How to Run](#-how-to-run)
+6. [Key Findings](#-key-findings)
+7. [Dashboard Screenshots](#-dashboard-screenshots)
+8. [SQL Highlights](#-sql-highlights)
 
 ---
 
-## 🔍 Key Findings
+## 🔍 Project Overview
+
+This project performs a complete end-to-end e-commerce data analysis using a
+synthetic Indian e-commerce dataset generated with Faker and NumPy. The pipeline
+generates, cleans, transforms, and loads data into a SQLite database, then
+visualizes insights through Matplotlib/Seaborn, Tableau, and Power BI dashboards.
+
+| Stage | Tool | What Happens |
+|-------|------|-------------|
+| **Generation** | `generate_data.py` | Creates 14,100 rows of realistic Indian e-commerce data |
+| **Cleaning** | `data_cleaning.py` | 9-step Pandas pipeline, RFM scoring, feature engineering |
+| **Analysis** | `eda_analysis.py` | 8 publication-quality plots + 4 SQL queries |
+| **Storage** | SQLAlchemy + SQLite | Bulk load into SQLite database |
+| **SQL** | `queries.sql` | 8 queries: revenue trends, top products, return rates |
+| **Visualization** | Tableau + Power BI | 3 interactive dashboards each |
+| **EDA** | Jupyter Notebook | Fully executed notebook with inline charts |
+
+---
+
+## 🛠 Tools & Technologies
+
+| Tool | Version | Purpose |
+|------|---------|---------|
+| Python | 3.12 | Core language |
+| Pandas | 2.1.4 | Data manipulation & preprocessing |
+| NumPy | 1.26.2 | Numerical computations |
+| Matplotlib | 3.8.2 | Static chart generation |
+| Seaborn | 0.13.0 | Statistical visualizations |
+| Scikit-learn | 1.3.2 | KMeans clustering, preprocessing |
+| SQLAlchemy | 2.0.23 | ORM & SQL query execution |
+| SQLite | built-in | Lightweight relational database |
+| Faker | 20.1.0 | Synthetic data generation (Indian locale) |
+| openpyxl | 3.1.2 | Excel export support |
+| Jupyter | 1.0.0 | Interactive notebook analysis |
+| Tableau Desktop | — | 3 interactive sales dashboards |
+| Power BI Desktop | — | 3 interactive BI dashboard pages |
+
+---
+
+## 🏗 Architecture
+┌─────────────────────────────────────────────────┐
+│              DATA GENERATION                    │
+│   Faker + NumPy (seed=42, Indian locale)        │
+│   14,100 rows · 4 tables · Jan2022-Jan2024      │
+└────────────────────┬────────────────────────────┘
+                     ▼
+┌─────────────────────────────────────────────────┐
+│           PYTHON ETL PIPELINE                   │
+│                                                 │
+│  generate_data.py   →  Generate + validate      │
+│  data_cleaning.py   →  Clean + RFM scoring      │
+│  eda_analysis.py    →  8 plots + SQL queries    │
+│  dashboard_export.py →  6 BI-ready CSV exports  │
+└────────────────────┬────────────────────────────┘
+                     ▼
+┌─────────────────────────────────────────────────┐
+│         SQLITE DATABASE                         │
+│                                                 │
+│   customers     (1,000 rows)                    │
+│   products      (100 rows)                      │
+│   orders        (5,000 rows)                    │
+│   order_items   (8,000 rows)                    │
+│   8 SQL Analysis Queries                        │
+└──────────┬───────────────────┬──────────────────┘
+           ▼                   ▼
+┌──────────────────┐  ┌────────────────────────────┐
+│  JUPYTER         │  │        BI LAYER            │
+│  NOTEBOOK        │  │                            │
+│  Executed EDA    │  │  Tableau Desktop           │
+│  Inline charts   │  │  Power BI Desktop          │
+│  RFM analysis    │  │  3 dashboards each         │
+└──────────────────┘  └────────────────────────────┘
+
+---
+
+## 📁 Folder Structure
+ecommerce-sales-analysis/
+│
+├── 📁 data/
+│   ├── 📁 raw/                            # Original generated data
+│   │   ├── 📄 customers.csv               # 1,000 customers (Indian locale)
+│   │   ├── 📄 products.csv                # 100 products across 6 categories
+│   │   ├── 📄 orders.csv                  # 5,000 orders (2022–2024)
+│   │   ├── 📄 order_items.csv             # 8,000 line items
+│   │   └── 🗄️ ecommerce.db               # SQLite database (all 4 tables)
+│   │
+│   └── 📁 processed/                      # Cleaned & feature-engineered data
+│       ├── 📄 customers_clean.csv         # + tenure_days column
+│       ├── 📄 products_clean.csv          # + profit_margin column
+│       ├── 📄 orders_clean.csv            # + year/month/quarter/weekday
+│       ├── 📄 order_items_clean.csv       # + recalculated total_price
+│       ├── 📄 rfm_scores.csv              # RFM scores + segment labels
+│       │
+│       └── 📁 dashboard_exports/          # Ready for Tableau & Power BI
+│           ├── 📄 kpi_summary.csv         # 1-row KPI snapshot
+│           ├── 📄 monthly_revenue.csv     # Year-month revenue trend
+│           ├── 📄 category_performance.csv # Category metrics + return rate
+│           ├── 📄 customer_segments.csv   # Customers + RFM merged
+│           ├── 📄 product_performance.csv # Per-product revenue + margin
+│           └── 📄 daily_orders.csv        # Gap-filled daily orders
+│
+├── 📁 scripts/                            # Python pipeline (run in order)
+│   ├── 🐍 generate_data.py                # Step 1 — Data generation
+│   ├── 🐍 data_cleaning.py               # Step 2 — Cleaning + RFM
+│   ├── 🐍 eda_analysis.py                # Step 3 — EDA + 8 plots
+│   └── 🐍 dashboard_export.py            # Step 4 — BI exports
+│
+├── 📁 sql/
+│   └── 📄 queries.sql                     # 8 business SQL queries
+│
+├── 📁 notebooks/
+│   └── 📓 ecommerce_analysis.ipynb       # Full executed notebook
+│
+├── 📁 dashboards/
+│   └── 📄 DASHBOARD_GUIDE.md             # Tableau + Power BI build guide
+│
+├── 📁 outputs/
+│   └── 📁 plots/                          # 14 PNG files
+│       ├── 📊 top_products_revenue.png
+│       ├── 📊 monthly_revenue_trend.png
+│       ├── 📊 revenue_by_category.png
+│       ├── 📊 orders_by_payment_method.png
+│       ├── 📊 customer_segment_distribution.png
+│       ├── 📊 rfm_segment_distribution.png
+│       ├── 📊 weekly_order_trend.png
+│       ├── 📊 category_return_rate.png
+│       ├── 📊 dashboard_sales_overview.png
+│       ├── 📊 dashboard_customer_intelligence.png
+│       ├── 📊 dashboard_product_performance.png
+│       ├── 📊 powerbi_sales_overview.png
+│       ├── 📊 powerbi_customer_analysis.png
+│       └── 📊 powerbi_product_performance.png
+│
+├── 📄 .gitignore
+├── 📄 requirements.txt
+├── 📄 setup.sh                            # Mac/Linux setup
+├── 📄 setup.bat                           # Windows setup
+└── 📄 README.md
+
+---
+
+## ▶ How to Run
+
+### Prerequisites
+- Python 3.11+
+- Tableau Desktop (for Tableau dashboards)
+- Power BI Desktop (for Power BI dashboards)
+
+### Step 1 — Clone Repository
+```bash
+git clone https://github.com/manoharpothireddy/ecommerce-sales-analysis.git
+cd ecommerce-sales-analysis
+```
+
+### Step 2 — Create Virtual Environment
+
+**Windows:**
+```bat
+setup.bat
+```
+
+**macOS / Linux:**
+```bash
+chmod +x setup.sh && ./setup.sh
+```
+
+### Step 3 — Run Full Pipeline
+```bash
+# Step 1 — Generate 14,100 rows of synthetic data + SQLite DB
+python scripts/generate_data.py
+
+# Step 2 — Clean all tables, add feature columns, compute RFM scores
+python scripts/data_cleaning.py
+
+# Step 3 — Generate 8 EDA plots + run 4 SQL queries
+python scripts/eda_analysis.py
+
+# Step 4 — Export 6 dashboard-ready CSVs for Tableau / Power BI
+python scripts/dashboard_export.py
+```
+
+Expected output:
+✅ Data generation complete. 4 tables saved to data/raw/
+✅ Cleaning complete. Files saved to data/processed/
+✅ EDA complete. 8 plots saved to outputs/plots/
+✅ Dashboard exports complete. 6 files saved to dashboard_exports/
+
+### Step 4 — Launch Jupyter Notebook (Optional)
+```bash
+jupyter notebook notebooks/ecommerce_analysis.ipynb
+```
+
+### Step 5 — Connect to Tableau / Power BI
+1. Open Tableau Desktop or Power BI Desktop
+2. Connect to files in `data/processed/dashboard_exports/`
+3. Follow the guide in `dashboards/DASHBOARD_GUIDE.md`
+
+---
+
+## 📊 Key Findings
+
+### 💰 Revenue Overview
 
 | KPI | Value |
 |-----|-------|
-| 💰 Total Revenue | ₹4.88 Cr (delivered orders only) |
-| 📦 Total Orders | 5,000 |
-| ✅ Delivered Orders | 3,470 (69.4%) |
-| 🔄 Return Rate | ~10.1% overall |
-| 🛒 Avg Order Value | ₹14,067 |
-| 👤 Total Customers | 1,000 |
+| Total Revenue | ₹4.88 Cr (delivered orders only) |
+| Total Orders | 5,000 |
+| Delivered Orders | 3,470 (69.4%) |
+| Return Rate | ~10.1% overall |
+| Avg Order Value | ₹14,067 |
+| Total Customers | 1,000 |
 
 ### 🏆 Category Performance
 
@@ -89,343 +267,100 @@ The project covers the **full analytics lifecycle**:
 - 📅 **Peak AOV Month:** November 2022 — ₹21,608 average order value
 - 🥇 **Top Customer:** Shanaya Sood (Premium, Pune) — ₹2,26,615 across 11 orders
 - 🏅 **Top Product:** Wireless Earbuds — ₹23,34,075 total revenue
-- 🏆 **Champions (5.6% of customers)** drive disproportionately high spend at ₹1.1 Lakh each
-- 📉 **Lost segment** (12.1%) hasn't ordered in 447 days on average — prime re-engagement targets
-
----
-
-## 🛠 Tech Stack
-
-| Tool | Version | Purpose |
-|------|---------|---------|
-| Python | 3.12 | Core language |
-| Pandas | 2.1.4 | Data manipulation & preprocessing |
-| NumPy | 1.26.2 | Numerical computations |
-| Matplotlib | 3.8.2 | Static chart generation |
-| Seaborn | 0.13.0 | Statistical visualizations |
-| Scikit-learn | 1.3.2 | KMeans clustering, preprocessing |
-| SQLAlchemy | 2.0.23 | ORM & SQL query execution |
-| SQLite | built-in | Lightweight relational database |
-| Faker | 20.1.0 | Synthetic data generation (Indian locale) |
-| openpyxl | 3.1.2 | Excel export support |
-| Jupyter | 1.0.0 | Interactive notebook analysis |
-| Tableau / Power BI | — | Interactive business dashboards |
-
----
-
-## 📁 Project Structure
-
-```
-ecommerce-sales-analysis/
-│
-├── data/
-│   ├── raw/                          # Generated source data
-│   │   ├── customers.csv             # 1,000 customers
-│   │   ├── products.csv              # 100 products across 6 categories
-│   │   ├── orders.csv                # 5,000 orders (2022–2024)
-│   │   ├── order_items.csv           # 8,000 line items
-│   │   └── ecommerce.db              # SQLite database (all 4 tables)
-│   │
-│   └── processed/                    # Cleaned & engineered data
-│       ├── customers_clean.csv       # + tenure_days
-│       ├── products_clean.csv        # + profit_margin
-│       ├── orders_clean.csv          # + order_year/month/quarter/weekday
-│       ├── order_items_clean.csv     # + recalculated total_price
-│       ├── rfm_scores.csv            # RFM scores + segment labels
-│       └── dashboard_exports/        # Tableau / Power BI ready files
-│           ├── kpi_summary.csv
-│           ├── monthly_revenue.csv
-│           ├── category_performance.csv
-│           ├── customer_segments.csv
-│           ├── product_performance.csv
-│           └── daily_orders.csv
-│
-├── scripts/                          # Standalone Python pipeline scripts
-│   ├── generate_data.py              # Synthetic data generation (Faker + NumPy)
-│   ├── data_cleaning.py              # Cleaning, validation, RFM analysis
-│   ├── eda_analysis.py               # 8 EDA plots + SQL query results
-│   └── dashboard_export.py           # 6 CSV exports for BI tools
-│
-├── sql/
-│   └── queries.sql                   # 8 SQL analysis queries (SQLite compatible)
-│
-├── notebooks/                        # Jupyter notebooks (step-by-step)
-│   ├── 01_data_generation.ipynb
-│   ├── 02_exploratory_data_analysis.ipynb
-│   ├── 03_revenue_trend_analysis.ipynb
-│   ├── 04_customer_segmentation.ipynb
-│   ├── 05_cohort_analysis.ipynb
-│   └── 06_purchasing_pattern_analysis.ipynb
-│
-├── dashboards/
-│   └── DASHBOARD_GUIDE.md            # Tableau & Power BI visual mapping guide
-│
-├── outputs/
-│   └── plots/                        # 8 saved PNG charts (DPI 150)
-│       ├── top_products_revenue.png
-│       ├── monthly_revenue_trend.png
-│       ├── revenue_by_category.png
-│       ├── orders_by_payment_method.png
-│       ├── customer_segment_distribution.png
-│       ├── rfm_segment_distribution.png
-│       ├── weekly_order_trend.png
-│       └── category_return_rate.png
-│
-├── .gitignore
-├── requirements.txt
-├── setup.sh                          # Mac/Linux environment setup
-├── setup.bat                         # Windows environment setup
-└── README.md
-```
-
----
-
-## 🚀 Quick Start
-
-### Prerequisites
-- Python **3.11+** — [python.org](https://www.python.org/downloads/)
-- Git — [git-scm.com](https://git-scm.com/)
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/ecommerce-sales-analysis.git
-cd ecommerce-sales-analysis
-```
-
-### 2. Run Setup
-
-**Windows:**
-```bat
-setup.bat
-```
-
-**macOS / Linux:**
-```bash
-chmod +x setup.sh && ./setup.sh
-```
-
-The setup script automatically:
-- Creates a Python virtual environment (`venv/`)
-- Installs all dependencies from `requirements.txt`
-- Registers the Jupyter kernel as `Python (ecommerce-analysis)`
-
-### 3. Run the Full Pipeline
-
-Activate the environment first:
-
-```bat
-# Windows
-venv\Scripts\activate
-
-# macOS / Linux
-source venv/bin/activate
-```
-
-Then run each script in order:
-
-```bash
-# Step 1 — Generate 14,100 rows of synthetic data + SQLite DB
-python scripts/generate_data.py
-
-# Step 2 — Clean all tables, add feature columns, compute RFM scores
-python scripts/data_cleaning.py
-
-# Step 3 — Generate 8 EDA plots + run 4 SQL queries
-python scripts/eda_analysis.py
-
-# Step 4 — Export 6 dashboard-ready CSVs for Tableau / Power BI
-python scripts/dashboard_export.py
-```
-
-### 4. Launch Jupyter Notebook (Optional)
-
-```bash
-jupyter notebook
-# or
-jupyter lab
-```
-
-Open notebooks in the `notebooks/` folder and select the `Python (ecommerce-analysis)` kernel.
-
----
-
-## 📈 Analysis Scripts
-
-### `generate_data.py`
-Generates the entire synthetic dataset using **Faker** (Indian locale) and **NumPy** with `seed=42` for full reproducibility.
-
-| Output | Details |
-|--------|---------|
-| customers.csv | 1,000 rows — names, cities, states, segments |
-| products.csv | 100 rows — 6 categories, realistic pricing |
-| orders.csv | 5,000 rows — status weighted 70/10/10/10 |
-| order_items.csv | 8,000 rows — quantity 1–5, discount 0–20% |
-| ecommerce.db | SQLite DB with all 4 tables loaded |
-| queries.sql | 8 SQL analysis queries |
-
----
-
-### `data_cleaning.py`
-
-Runs a **9-step cleaning pipeline**:
-
-| Step | Action |
-|------|--------|
-| Quality Report | Shape, dtypes, null values, duplicate count per table |
-| Customers | Parse dates, strip whitespace, lowercase emails, add `tenure_days` |
-| Products | Coerce numerics, strip text, add `profit_margin` |
-| Orders | Parse dates, add `order_year/month/quarter/weekday/week_number` |
-| Order Items | Recalculate `total_price`, drop invalid rows |
-| RFM Analysis | Score R/F/M 1–4 via quartile binning, assign segment labels |
-| Save | Write 5 cleaned CSVs to `data/processed/` |
-
-**RFM Segment Rules:**
-
-| Segment | Rule |
-|---------|------|
-| Champions | R=4, F=4, M=4 |
-| Loyal Customers | F ≥ 3 |
-| At Risk | R ≤ 2, F ≥ 2 |
-| Lost | R=1, F=1 |
-| Others | Everything else |
-
----
-
-### `eda_analysis.py`
-
-Generates **8 publication-quality plots** (DPI 150, saved as PNG) and runs **4 SQL queries** against the SQLite database.
-
-| Plot | File |
-|------|------|
-| Top 10 Products by Revenue (teal gradient H-bar) | `top_products_revenue.png` |
-| Monthly Revenue Trend 2022 vs 2023 (dual line) | `monthly_revenue_trend.png` |
-| Revenue by Product Category (bar) | `revenue_by_category.png` |
-| Orders by Payment Method (pie) | `orders_by_payment_method.png` |
-| Customer Segment Distribution (donut) | `customer_segment_distribution.png` |
-| RFM Segments (color-coded H-bar) | `rfm_segment_distribution.png` |
-| Weekly Order Volume + 4-week rolling avg | `weekly_order_trend.png` |
-| Return Rate by Category (red H-bar) | `category_return_rate.png` |
-
----
-
-### `dashboard_export.py`
-
-Produces **6 ready-to-connect CSV files** for Tableau and Power BI:
-
-| Export | Rows | Purpose |
-|--------|------|---------|
-| `kpi_summary.csv` | 1 | Single-row KPI snapshot for card visuals |
-| `monthly_revenue.csv` | 25 | Year-month revenue for trend charts |
-| `category_performance.csv` | 6 | Category metrics incl. return rate |
-| `customer_segments.csv` | 1,000 | Customers merged with RFM scores |
-| `product_performance.csv` | 100 | Per-product revenue, margin, discount |
-| `daily_orders.csv` | 731 | Full date-range daily orders (gap-filled) |
-
-See [`dashboards/DASHBOARD_GUIDE.md`](dashboards/DASHBOARD_GUIDE.md) for the complete Tableau and Power BI visual mapping guide.
+- 🏆 **Champions (5.6%)** drive disproportionately high spend at ₹1.1 Lakh each
+- 📉 **Lost segment (12.1%)** hasn't ordered in 447 days — prime re-engagement targets
+- 💡 **Beauty** has the highest return rate at 11.52% — needs product quality review
 
 ---
 
 ## 📸 Dashboard Screenshots
 
-> All plots saved to `outputs/plots/` at 150 DPI.
+### Tableau — Sales Overview Dashboard
+![Sales Overview](outputs/plots/dashboard_sales_overview.png)
 
-| Top 10 Products by Revenue | Monthly Revenue Trend |
-|---|---|
-| Teal gradient horizontal bar, ₹ labels | 2022 vs 2023 dual-line with fill |
+### Tableau — Customer Intelligence Dashboard
+![Customer Intelligence](outputs/plots/dashboard_customer_intelligence.png)
 
-| RFM Customer Segments | Return Rate by Category |
-|---|---|
-| Color-coded by segment (green/blue/orange/red/gray) | Red horizontal bars with % labels |
+### Tableau — Product Performance Dashboard
+![Product Performance](outputs/plots/dashboard_product_performance.png)
+
+### Power BI — Sales Overview
+![Power BI Sales](outputs/plots/powerbi_sales_overview.png)
+
+### Power BI — Customer Analysis
+![Power BI Customer](outputs/plots/powerbi_customer_analysis.png)
+
+### Power BI — Product Performance
+![Power BI Product](outputs/plots/powerbi_product_performance.png)
 
 ---
 
-## 🗄️ SQL Queries (`sql/queries.sql`)
+## 🗂 SQL Highlights
 
-8 production-ready SQLite queries included:
+### 8 Business SQL Queries in `sql/queries.sql`
 
-| # | Query |
-|---|-------|
-| 1 | Top 10 best-selling products by revenue |
-| 2 | Monthly revenue trend for 2022 and 2023 |
-| 3 | Revenue by product category with share % |
-| 4 | Customer count by segment |
-| 5 | Top 10 customers by total spend |
-| 6 | Orders by payment method with status breakdown |
-| 7 | Return rate by product category |
-| 8 | Average order value by month |
+| # | Query | Technique |
+|---|-------|-----------|
+| 1 | Top 10 best-selling products by revenue | GROUP BY + ORDER BY |
+| 2 | Monthly revenue trend for 2022 and 2023 | strftime + GROUP BY |
+| 3 | Revenue by product category with share % | SUM + ROUND |
+| 4 | Customer count by segment | GROUP BY + COUNT |
+| 5 | Top 10 customers by total spend | JOIN + GROUP BY |
+| 6 | Orders by payment method with status breakdown | CASE WHEN |
+| 7 | Return rate by product category | CAST + ROUND |
+| 8 | Average order value by month | AVG + strftime |
 
-Run any query directly against the database:
+### Key SQL Techniques Used
 
-```python
-from sqlalchemy import create_engine, text
-import pandas as pd
+```sql
+-- 1. Revenue by category with percentage share
+SELECT p.category,
+       SUM(oi.total_price) as total_revenue,
+       ROUND(SUM(oi.total_price) * 100.0 /
+             (SELECT SUM(total_price) FROM order_items), 2) as share_pct
+FROM order_items oi
+JOIN products p ON oi.product_id = p.product_id
+GROUP BY p.category
+ORDER BY total_revenue DESC;
 
-engine = create_engine("sqlite:///data/raw/ecommerce.db")
-with engine.connect() as conn:
-    df = pd.read_sql(text("SELECT * FROM customers LIMIT 5"), conn)
-print(df)
+-- 2. Return rate by category
+SELECT p.category,
+       ROUND(CAST(SUM(CASE WHEN o.status = 'Returned'
+             THEN 1 ELSE 0 END) AS FLOAT) /
+             COUNT(*) * 100, 2) as return_rate_pct
+FROM orders o
+JOIN order_items oi ON o.order_id = oi.order_id
+JOIN products p ON oi.product_id = p.product_id
+GROUP BY p.category
+ORDER BY return_rate_pct DESC;
+
+-- 3. Top customers by total spend
+SELECT c.customer_id, c.name, c.customer_segment,
+       SUM(oi.total_price) as total_spend,
+       COUNT(DISTINCT o.order_id) as total_orders
+FROM customers c
+JOIN orders o ON c.customer_id = o.customer_id
+JOIN order_items oi ON o.order_id = oi.order_id
+WHERE o.status = 'Delivered'
+GROUP BY c.customer_id
+ORDER BY total_spend DESC
+LIMIT 10;
 ```
 
 ---
 
-## 📊 Dashboard Integration
+## 📋 Dataset Details
 
-### Tableau
-1. Open Tableau Desktop → **Connect to a File → Text File**
-2. Navigate to `data/processed/dashboard_exports/`
-3. Load `kpi_summary.csv` for KPI cards
-4. Load `monthly_revenue.csv` for trend charts
-5. Create **relationships** between files using `customer_id`, `product_id`, `order_id`
-6. Follow the visual plan in [`dashboards/DASHBOARD_GUIDE.md`](dashboards/DASHBOARD_GUIDE.md)
-
-### Power BI
-1. Open Power BI Desktop → **Get Data → Text/CSV**
-2. Load all 6 CSV files from `data/processed/dashboard_exports/`
-3. In Power Query, set correct data types for date and numeric columns
-4. Create **relationships** in the Model view
-5. Follow the page-by-page plan in [`dashboards/DASHBOARD_GUIDE.md`](dashboards/DASHBOARD_GUIDE.md)
-
----
-
-## 📦 Requirements
-
-```
-pandas==2.1.4
-numpy==1.26.2
-matplotlib==3.8.2
-seaborn==0.13.0
-scikit-learn==1.3.2
-faker==20.1.0
-sqlalchemy==2.0.23
-ipykernel==6.27.1
-jupyter==1.0.0
-openpyxl==3.1.2
-```
-
-Install manually:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-analysis`
-3. Commit your changes: `git commit -m "Add: cohort retention analysis"`
-4. Push to GitHub: `git push origin feature/your-analysis`
-5. Open a Pull Request
-
-Please follow [PEP 8](https://peps.python.org/pep-0008/) and add docstrings to all functions.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
+| Item | Detail |
+|------|--------|
+| **Type** | Fully synthetic (generated with Faker + NumPy) |
+| **Locale** | Indian (names, cities, states) |
+| **Seed** | 42 (fully reproducible) |
+| **Customers** | 1,000 rows |
+| **Products** | 100 rows across 6 categories |
+| **Orders** | 5,000 rows (2022–2024) |
+| **Order Items** | 8,000 rows |
+| **Total Records** | 14,100 rows |
 
 ---
 
@@ -438,10 +373,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-<div align="center">
-
-⭐ **Star this repo** if you found it useful!
-
-Built with ❤️, Python, and a lot of ₹ signs.
-
-</div>
+*Built as a portfolio project demonstrating end-to-end data analytics skills
+using Python, SQL, SQLite, Tableau, and Power BI.*
