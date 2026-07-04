@@ -13,7 +13,7 @@
 **End-to-end data analytics pipeline on a synthetic Indian e-commerce dataset.**  
 Data generation → Cleaning → SQL analysis → EDA → RFM segmentation → Dashboard exports.
 
-[📊 Key Findings](#-key-findings) · [🚀 Quick Start](#-quick-start) · [📁 Project Structure](#-project-structure) · [📈 Analysis Scripts](#-analysis-scripts) · [📸 Sample Plots](#-sample-plots)
+[📊 Key Findings](#-key-findings) · [🚀 Quick Start](#-quick-start) · [📁 Project Structure](#-project-structure) · [📈 Analysis Scripts](#-analysis-scripts) · [📸 Dashboard Screenshots](#-dashboard-screenshots)](#-sample-plots)
 
 </div>
 
@@ -326,7 +326,7 @@ See [`dashboards/DASHBOARD_GUIDE.md`](dashboards/DASHBOARD_GUIDE.md) for the com
 
 ---
 
-## 📸 Sample Plots
+## 📸 Dashboard Screenshots
 
 > All plots saved to `outputs/plots/` at 150 DPI.
 
@@ -431,9 +431,9 @@ This project is licensed under the **MIT License**.
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [P MANOHAR REDDY](https://github.com/manoharpothireddy)
-- LinkedIn: ([https://linkedin.com/in/MANOHAR REDDY POTHIREDDY](https://www.linkedin.com/in/manohar-reddy-pothireddy-3ab1a7319/))
+**P Manohar Reddy**
+- GitHub: [@manoharpothireddy](https://github.com/manoharpothireddy)
+- LinkedIn: [Manohar Reddy Pothireddy](https://www.linkedin.com/in/manohar-reddy-pothireddy-3ab1a7319/)
 - Email: p.manoharreddy789809@gmail.com
 
 ---
